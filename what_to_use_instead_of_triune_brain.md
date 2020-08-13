@@ -34,7 +34,7 @@ https://en.wikipedia.org/wiki/Mind–body_dualism…
 
 The utterly fascinating Lisa Feldman Barrett:
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5876074/
-https://academic.oup.com/scan/article/12/1/1/2823712
+[](https://academic.oup.com/scan/article/12/1/1/2823712)
 
 #### footnotes
 
