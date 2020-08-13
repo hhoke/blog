@@ -6,4 +6,4 @@ relative_links:
 include:
   - README.md
   - pip_does_not_update_pipfile_in_pipenv.md
-theme: jekyll-theme-leap-day
+theme: jekyll-theme-cayman
