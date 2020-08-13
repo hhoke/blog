@@ -18,23 +18,23 @@ All that being said, the idea that there is a tiny and very emotional lizard tra
 
 Triune brain:
 "gut, heart, head"
-https://thebrain.mcgill.ca/flash/capsules/histoire_bleu09.html
+[https://thebrain.mcgill.ca/flash/capsules/histoire_bleu09.html](https://thebrain.mcgill.ca/flash/capsules/histoire_bleu09.html)
 
 "Your Brain Is Not an Onion With a Tiny Reptile Inside"
-https://journals.sagepub.com/doi/full/10.1177/0963721420917687
+[https://journals.sagepub.com/doi/full/10.1177/0963721420917687](https://journals.sagepub.com/doi/full/10.1177/0963721420917687)
 
-https://medicine.yale.edu/news/yale-medicine-magazine/a-theory-abandoned-but-still-compelling/
+[https://medicine.yale.edu/news/yale-medicine-magazine/a-theory-abandoned-but-still-compelling/](https://medicine.yale.edu/news/yale-medicine-magazine/a-theory-abandoned-but-still-compelling/)
 
 
 Memory, not RAM:
-https://www.3quarksdaily.com/3quarksdaily/2017/10/why-human-memory-is-not-a-bit-like-a-computers.html
+[https://www.3quarksdaily.com/3quarksdaily/2017/10/why-human-memory-is-not-a-bit-like-a-computers.html](https://www.3quarksdaily.com/3quarksdaily/2017/10/why-human-memory-is-not-a-bit-like-a-computers.html)
 
 dualism:
-https://en.wikipedia.org/wiki/Mind–body_dualism…
+[https://en.wikipedia.org/wiki/Mind–body_dualism](https://en.wikipedia.org/wiki/Mind–body_dualism)
 
 The utterly fascinating Lisa Feldman Barrett:
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5876074/
-[](https://academic.oup.com/scan/article/12/1/1/2823712)
+[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5876074/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5876074/)
+[https://academic.oup.com/scan/article/12/1/1/2823712](https://academic.oup.com/scan/article/12/1/1/2823712)
 
 #### footnotes
 
@@ -48,9 +48,9 @@ some other examples:
 - youtube video -- "The brain has two hemispheres because the world is made of Chaos & Order - Jordan Peterson"
 His contention is that we should view the world as somehow divided between Chaos and Order, and to reinforce the claim, he says that the brain has two hemispheres that themselves deal with chaos and with order. If you had to characterize one side of the brain as the "chaotic" and the other as the "orderly" one, you could. There are documented asymmetries in the brain. However, "chaotic hemisphere" and "orderly hemisphere" are not natural types. I may be out of my depth here, but if I had to characterize what separates the function of the left from the right, I would say that it's side-specific processing of auditory and visual stimulus, as well as motor planning. That is to say, the right processes visual signals from the left visual field, while the right processes signals from the right visual field, and so on. There's actually a symmetry there. Additionally, wholly cognitively functional humans exist with only one hemisphere, and they're not solely capable of dealing with either Chaos or Order, depending on which hemisphere was excised. The fact that you CAN construe some facts about the hemispheres in light of your conceptual framework, does not mean that the nature of the hemispheres themselves have any evidence for the validity of your claim.
 
-  - "...popular view that the right hemisphere is responsible for creativity. Brain imaging shows, though, that creative thought activates a widespread network, favoring neither hemisphere": https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3897366/
+  - "...popular view that the right hemisphere is responsible for creativity. Brain imaging shows, though, that creative thought activates a widespread network, favoring neither hemisphere": [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3897366/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3897366/)
 
-  - Visual cortex crossover: https://en.wikipedia.org/wiki/Visual_cortex#:~:text=Both%20hemispheres%20of%20the%20brain,from%20the%20left%20visual%20field.
+  - Visual cortex crossover: [https://en.wikipedia.org/wiki/Visual_cortex#:~:text=Both%20hemispheres%20of%20the%20brain,from%20the%20left%20visual%20field.](https://en.wikipedia.org/wiki/Visual_cortex#:~:text=Both%20hemispheres%20of%20the%20brain,from%20the%20left%20visual%20field.)
 
 - Another particularly terrible example of this is Simon Sinek's "How Great Leaders Inspire Action" TED talk, which I will not link because I hate it on a petty SEO counter-optimization level
 > None of this is my opinion. It's grounded in biology. Not psychology - BIOLOGY.
