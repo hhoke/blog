@@ -1,3 +1,5 @@
+# The triune brain metaphor as an example of broader problems in pop neuroscience
+
 ### *Q:* What to use instead of the idea of the triune brain or "lizard brain / limbic system/ primate neocortex" model?
 
 ### *A:* Gut, heart, and head ;) (see the first link on triune brain)

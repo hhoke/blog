@@ -1,4 +1,4 @@
-You may think pipenv works like this:                       
+You may think pipenv works in the following way:                       
                                                             
 ```                                                         
 pipenv install --python 3.6                                 
