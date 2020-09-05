@@ -1,4 +1,4 @@
-You may think pipenv works in the following way:                       
+You may think pipenv works by allowing you to create a virtualenv in which you can use pip:                       
                                                             
 ```                                                         
 pipenv install --python 3.6                                 
