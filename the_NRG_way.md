@@ -45,7 +45,7 @@ It is categorically better to explain to the customer why they are wrong, and co
 You may be worried that telling the customer they're wrong will make them angry. This may be true, in the short term. However, they probably have a boss. Your choices are 
 
 1. Risk making them angry but work towards solving the problem now.
-2.Ignore them for a week until the problem gets bad, one or both of your bosses gets involved, and you look like you didn't do your job by leaving them hanging  (because you didn't).
+2. Ignore them for a week until the problem gets bad, one or both of your bosses gets involved, and you look like you didn't do your job by leaving them hanging  (because you didn't).
 
 ## Customer Joe's mistakes and how to do better
 
