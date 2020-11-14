@@ -98,7 +98,7 @@ Here are some other brief examples of where taking the time to appreciate your c
 
 #### To IT customers:
 - IT does not know how long you have been debugging your problem. IT probably doesn't even know your problem existed until you contacted them. Do not blame IT for a week-long problem if you only just contacted them!
-- No amount of cajoling, blackmail, or kowtowing will enable your IT person to fix a problem you have not described in sufficient detail. They are probably not refusing to fix it because they dislike you. They probably dislike you because you want them to FIX IT!!! without telling them what "IT" is.
+- No amount of cajoling, blackmail, or kowtowing will enable your IT person to fix a problem you have not described in sufficient detail. They are probably not refusing to fix it because they dislike you. They probably dislike you because you want them to FIX IT!!! without telling them what "IT" is, precisely, that you need fixed.
 - Do not worry about not knowing technical things. That is IT's job, not yours. Your job is to be as honest as possible and ask good questions. If you are honest, ask good questions, and demonstrate that you tried to read the docs before submitting a ticket, IT will love you and won't care if you don't know some technical detail. 
 
 ### Addendum: Managers, stay in your lane
