@@ -1,6 +1,6 @@
 # The Embedded IT Diaries: Family Counseling
 
-I have spent the last five years or so in embedded IT, serving as professional couples therapist / child of the divorced parents that are Central IT and the rest of the organization. I have seen both remarkably functional and remarkably dysfunctional interactions between IT people and researchers.
+I have spent the last five years or so in embedded IT, serving as professional (couples therapist / child of the divorced parents that are Central IT and the rest of the organization). I have seen both remarkably functional and remarkably dysfunctional interactions between IT people and researchers.
 
 To clarify, this is NOT about direct customer support, or working in a call center.
 That is a whole different ballgame.
