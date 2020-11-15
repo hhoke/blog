@@ -1,10 +1,10 @@
 # The Embedded IT Diaries: Family Counseling
 
-I have spent the last five years or so in embedded IT, serving as professional \(couples therapist / child of the divorced parents that are Central IT and the rest of the organization\). I have seen both remarkably functional and remarkably dysfunctional interactions between IT people and researchers.
+I have spent the last five years or so in embedded IT, serving as professional \(couples therapist / child of the divorced parents that are Central IT and the rest of the organization\). I have seen both remarkably functional and remarkably dysfunctional interactions between IT people and the researchers I was embedded with.
 
 To clarify, this is NOT about direct customer support, or working in a call center.
 That is a whole different ballgame.
-This is about embedded IT groups that service the core technology that keeps the broader organization running.
+This is about IT groups that service the core technology that keeps the broader organization running.
 
 I learned a lot about how people from these different groups, with different skillsets, norms, and goals, can work together more productively. Especially at my last workplace, the Harvard NRG, we had a lot of norms which really helped to keep things functional.
 
@@ -38,26 +38,38 @@ At this point, IT Bob checks the directory given, and finds that not only is the
 
 This is not a morality play. God is not going to descend from the heavens and judge you the Reasonable And Smart One, and condemn your client to IT hell. (no matter how much they may deserve it). Most importantly, you will not be able to evade the bad perception of your IT group forever. Customer Joe may not even understand that IT blames him for the issue. As far as he is concerned, IT is terrible and didn't do their job. As far as IT is concerned, Customer Joe is completely unreasonable and incompetent. Even if IT Bob is right, Customer Joe is also still right. How can this be so?
 
-It is IT's job to enable the customer to use technology to further the broader organization's mission. If fundamental business operations are blocked, and IT has abandoned the problem, they have failed. I'm not saying the customer is always right. In fact, in IT the customer is usually wrong. That's what we're here for.
+It is IT's job to enable the customer to use technology to further the broader organization's mission. If fundamental business operations are blocked, and IT has abandoned the problem, they have failed. I'm not saying the customer is always right. In IT, in fact, the customer is usually wrong. That's what we're here for.
 
-It is categorically better to explain to the customer why they are wrong, and continue to work with them on their problem, than it is to ignore them. Sometimes the customer will make this emotionally difficult for you to do. Do it anyway -- it's your job. In this case, it is especially clear that this is a problem of some priority, and is therefore particularly inexcusable to just drop the thread of communication. 
+It is categorically better to explain to the customer why they are wrong, and continue to work with them on their problem, than it is to ignore them. Sometimes the customer will make this emotionally difficult for you to do. Do it anyway -- it's your job. In this 'missing files' case, the problem is clearly somewhat urgent, so it's particularly inexcusable to just drop the thread of communication. 
 
 You may be worried that telling the customer they're wrong will make them angry. This may be true, in the short term. However, they probably have a boss. Your choices are 
 
 1. Risk making them angry but work towards solving the problem now.
 2. Ignore them for a week until the problem gets bad, one or both of your bosses gets involved, and you look like you didn't do your job by leaving them hanging  (because you didn't).
 
-## Customer Joe's mistakes and how to do better
+These are all important goals for IT workers, but IT workers are only human, and many of them may not have even read this article! So,  just as IT must strive to enable customers, it's equally important that customers learn to enable IT.
+
+#### Customer Joe's mistakes and how to do better
 
 [Never just say hello](https://www.nohello.com/2013/01/please-dont-say-just-hello-in-chat.html)
 
-It is much, MUCH better to admit ignorance than give incorrect specific information. Customers often feel a need to prove their technical chops to the IT person for a variety of emotional reasons I won't go into here. Other customers may (rightly) think that the more computery they speak, the easier it will be for IT to understand them. However, incorrect details can mislead and frustrate the IT person. While precise compu-speak is preferable, precise and accurate english is much, much better than imprecise or innacurate compuspeak. I have personally taken to using spanish-style punctuation to denote parts of a sentence I am especially unsure about:
+It is much, MUCH better to admit ignorance than give incorrect specific information. Customers often feel a need to prove their technical chops to the IT person for a variety of emotional reasons I won't go into here. Other customers may (rightly) think that the more computery they speak, the easier it will be for IT to understand them. However, incorrect details can mislead and frustrate the IT person. While precise compu-speak is preferable, precise and accurate english is much, much better than imprecise or innacurate compuspeak. 
 
-> I'm seeing nothing in `df`, though the command is installed properly, and I think ¿the disk isn't even mounted?
+A more nuanced aspect of striving for accuracy is accurately conveying uncertainty. Written language is not always the best at this, but even just using modifiers like "I think", and avoiding jumping to conclusions can help. For example, it is better to say "I think the hard drive is broken because it doesn't show up when I plug it in to my macbook" than simply "My hard drive is broken", because in this example the problem could easily be with some configuration on your mac, or an incompatibility between the mac and the hard drive. This sort of observation-first language allows for easier collaboration than conclusion-based declarative language.
+
+Memory can also be a hazard in this arena. People in general are terrible at remembering specific directory names down to the letter. Sometimes, there is an intermittent error message that flashes up on screen but you can't reference to copy word-for-word. It is equally important that you find some way to communicate this type of uncertainty. Uncertain information marked as such is usually more valuable than if you had left it out, but uncertain information presented as certain can quickly lead to SNAFU.
+
+For the more adventurous, an experimental precision-uncertainty-communication technique I have personally taken to using employs spanish-style punctuation to denote parts of a sentence I am especially unsure about:
+
+> Whenever I check the job status, it's at "starting" or ¿"initializing"?, but don't ever appear to enter "running" state
+
+The over-arching principle is this: Your job is to describe your problem effectively, and ask good questions. If you have suggestions or have come to your own conclusions about the origin of the problem, that's great, but the IT professional may know things you don't, and it's always good to explain your conclusions to allow for collaboration and build mutual trust. It's also important to clearly explain your high-level goal, because the IT professional may be able to figure out a solution you were not aware existed.
 
 Here are two good guides to asking good questions: ([shorter](https://www.techsupportalert.com/content/how-ask-question-when-you-want-technical-help.htm),[longer](https://github.com/selfteaching/How-To-Ask-Questions-The-Smart-Way/blob/master/How-To-Ask-Questions-The-Smart-Way.md)). If you're working in a technical field, I highly recommend giving them a read. If you're doing any coding whatsoever, I would read this [short debugging guide](https://ericlippert.com/2014/03/05/how-to-debug-small-programs/).
 
-You will have to be flexible about how you seek out information. Official documentation, google search, man pages, mailing lists, or even a google doc may be the best source of information about a particular piece of software, and part of learning a new library or other tool is figuring out where to go first for information. Especially in niche technical fields, the best source of information varies a lot, and it's usually not just a google search.
+You will have to be flexible about how you seek out information. Official documentation, google search, man pages, mailing lists, or even a google doc may be the best source of information about a particular piece of software, and part of learning a new library or other tool is figuring out where to go first for information. Especially in niche technical fields, the best source of information varies a lot, and it's usually not just a google search. Similarly, you will have to learn how to get the most out of IT. Depending on your department and the problem at hand, in-person, a chatline, the docs, submitting a ticket, or an email to a particular individual might be the most effective way to get your problem solved.
+
+Now, let's see what our 'missing files' example could look like after applying some of these principles:
 
 ### Functional example: missing files
 
@@ -69,7 +81,7 @@ You will have to be flexible about how you seek out information. Official docume
 >
 >**IT**: OK, I changed the group permissions for that folder. Hopefully you can see them now.
 >
->**C**: Great, thanks!
+>**C**: Great, I can see them now!
 > **ticket has been closed**
 
 ### Theory of Mind: the importance of Empathy
@@ -98,7 +110,7 @@ Here are some other brief examples of where taking the time to appreciate your c
 
 #### To IT customers:
 - IT does not know how long you have been debugging your problem. IT probably doesn't even know your problem existed until you contacted them. Do not blame IT for a week-long problem if you only just contacted them!
-- No amount of cajoling, blackmail, or kowtowing will enable your IT person to fix a problem you have not described in sufficient detail. They are probably not refusing to fix it because they dislike you. They probably dislike you because you want them to FIX IT!!! without telling them what "IT" is, precisely, that you need fixed.
+- No amount of cajoling, blackmail, or kowtowing will enable your IT person to fix a problem you have not described in sufficient detail. They are probably not refusing to fix it because they dislike you. They probably dislike you because you want them to FIX IT!!! without giving them sufficient information to do so.
 - Do not worry about not knowing technical things. That is IT's job, not yours. Your job is to be as honest as possible and ask good questions. If you are honest, ask good questions, and demonstrate that you tried to read the docs before submitting a ticket, IT will love you and won't care if you don't know some technical detail. 
 
 ### Addendum: Managers, stay in your lane
