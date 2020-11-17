@@ -12,7 +12,7 @@ I want to sum these things up and write them down while the memories are still (
 
 ## if you don't fix it, it isn't fixed / if the customer is wrong, tell them
 
-IT is as much about talking with people as it is about fixing computers. It's very much about relationship management, even if it may not appear to be at first. This is a big problem for IT. Unfortunately, if you were lonely enough in high school to get good at computers, you're probably a kind of a freak. Relationships are not your thing, computers are. 
+IT work is as much about talking with people as it is about fixing computers. It's very much about relationship management, even if it may not appear to be at first. This is a big problem for IT. Unfortunately, if you were lonely enough in high school to get good at computers, you're probably a kind of a freak. Relationships are not your thing, computers are. 
 
 One of the consequences of this awkwardness is that a lot of internal customers end up dissatisfied with their IT group, despite the fact that the IT group has a lot of talented computer people in it. It's easy to find reasons not to provide service in IT -- your customers are usually less competent around technology than you are, or you would be out of a job. On top of this, IT is often overloaded. Many customers will not do basic things like read documentation unless forced to, or may have unrealistic expectations about what technology can do. 
 
