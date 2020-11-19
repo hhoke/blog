@@ -5,8 +5,9 @@ I have spent the last five years or so in embedded IT, serving as professional \
 To clarify, this is NOT about direct customer support, or working in a call center.
 That is a whole different ballgame.
 This is about IT groups that service the core technology that keeps the broader organization running.
+It is also not intended to be a diagnosis of why any particular organization behaves poorly or well, but rather a description of certain positive and negative behavioral patterns I've notices.
 
-I learned a lot about how people from these different groups, with different skillsets, norms, and goals, can work together more productively. Especially at my last workplace, the Harvard NRG, we had a lot of norms which really helped to keep things functional.
+I learned a lot about how people from embedded IT, core IT, and business units, with different skillsets, norms, and goals, can work together more productively. Especially at my last workplace, the Harvard NRG, we had a lot of norms which really helped to keep things functional. 
 
 I want to sum these things up and write them down while the memories are still (mostly) fresh. In this series I'll try to articulate some of the NRG's best principles, with illustrative examples. All example scenarios are purely fictional, and any resemblance to any other scenarios, real or imaginary, is purely coincidental.
 
