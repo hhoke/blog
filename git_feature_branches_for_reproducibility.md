@@ -12,4 +12,16 @@ If I develop new functionality or make modifications to the core analysis or ing
 
 I also use the short version of the git hash as a subdirectory into which I can place the data (in json files) and any produced figures into together. This allows me to keep a copy of the data and all figures produced therefrom in a common location that is tied to the code used to both download the data and produce the figures from the data.
 
-This does not involve a lot of overhead of infrastructure, but even a practice as simple as this makes it so much easier to try out new analyses quickly without worrying about breaking core functionality, and helps to keep code quality high (less chunks of copypasta  and commented-out options).
+for example:
+
+```
+archive_by_hash/
+  ie9cccf/
+    28Oct2020Week_rhel62.json
+    28Oct2020_rhel62_waitHist.html
+  23rrv8x/
+    7Aug2020Incident_all.json
+    7Aug2020IncidentGantt.html
+```
+
+This does not involve a lot of overhead of infrastructure, but even a practice as simple as this makes it so much easier to try out new analyses quickly without worrying about breaking core functionality, and helps to keep code quality high (less chunks of copypasta  and commented-out options). It also makes it much easier to recreate analyses with new datasets as long as I have the original ticket number from jira or hash from my notebook.
