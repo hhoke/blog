@@ -1,6 +1,6 @@
 ## Best Internet Culture Vids **RARE**BITS**
 
-A few months back, I created a [youtube playlist titled "Best Internet Culture Vids **RARE**BITS**"](https://www.youtube.com/playlist?list=PLUMhB6YQV6_R9P0IoZ6ggi98GbBe4gPt8). I just made copies of all videos on the playlist, in case they are deleted, and thought I would post here. Description below.
+A few months back, I created a [youtube playlist titled "Best Internet Culture Vids **RARE**BITS**"](https://www.youtube.com/playlist?list=PLUMhB6YQV6_R9P0IoZ6ggi98GbBe4gPt8). I just archived all the videos on the playlist, in case they are deleted, and thought I would post a link to the original here. Description below.
 
 The first three videos are must-watch and blew my mind. The next few describe important parts of internet commerce and get-rich-quick schemes. Everything from there down is of varying quality, but was added for coverage of youtube, tumblr, and 4chan. I'm going to start off with channel-level descriptions and move to video-level for the channels that are less good or that I am less familiar with.
  
