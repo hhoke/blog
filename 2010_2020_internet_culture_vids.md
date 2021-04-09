@@ -13,7 +13,7 @@ Nerd City -- Extensive and well-produced videos of an innovative journalistic st
  
 James Jani -- Slick and comprehensive videos that describe some other internet phenomena with a focus on Hustle Culture, gurus, and other scams.
  
-Sarah Z -- Insanely articulate insiders' look at a lot of tumblr and fandom culture. The one downside for me is that she has politics typical of tumblr, so every once in a while you will hear an extremely handwavey criticism of capitalism. Her video on Bad Media Criticism is also outstanding.
+Sarah Z -- Insanely articulate insiders' look at a lot of tumblr and fandom culture. The one downside for me is that she has politics typical of tumblr, so every once in a while you will hear an extremely handwavey criticism of capitalism. Her video on [Bad Media Criticism](https://www.youtube.com/watch?v=CsIKdZZxmZ8) is also outstanding.
  
 Coffeezilla - more vlog/reaction vid style, lower-production value vids, but he hates gurus and has a decent backlog of primary source material.
  
