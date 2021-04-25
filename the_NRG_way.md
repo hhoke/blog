@@ -11,8 +11,7 @@ I learned a lot about how people from embedded IT, core IT, and business units, 
 
 I want to sum these things up and write them down while the memories are still (mostly) fresh. In this series I'll try to articulate some of the NRG's best principles, with illustrative examples. All example scenarios are purely fictional, and any resemblance to any other scenarios, real or imaginary, is purely coincidental.
 
-## You Have To Fix It
-(or, if the customer is wrong, tell them)
+## You Have To Fix It: if the customer is wrong, tell them
 
 IT work is as much about talking with people as it is about fixing computers. It's very much about relationship management, even if it may not appear to be at first. This is a big problem for IT. Unfortunately, if you were lonely enough in high school to get good at computers, you're probably kind of a freak. Relationships are not your thing, computers are. 
 
