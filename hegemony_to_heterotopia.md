@@ -32,15 +32,39 @@ how did formats get developed? How do they relate to Cable TV?
 
 #The Center Will Not Hold: the mass medium lifecycle and the victory of Format
 
-A lot of right-wingers have this conspiracist idea that The Globalists\* are purposefully manipulating the media to homogenize tastes, wipe out local subcultures and traditions. This phenomenon undoubtedly occurs to some extent. However, it is not due to a centrally-planned plot but rather emerges from the interactions of individual actors, each reacting to market forces. Similarly, consolidation is only half of the story. To get the full thing, we will need to review some fascinating dynamics that cut across different media technologies.
+A lot of right-wingers have this conspiracist idea that The Globalists\* are purposefully manipulating the media to homogenize tastes, wipe out local subcultures and traditions.
+You can hear this narrative on Tucker Carlson all the time.
+This phenomenon undoubtedly occurs to some extent.
+However, it is not due to a centrally-planned plot, but rather emerges from the interactions of individual actors, each reacting to market forces.
+Similarly, consolidation is only half of the story.
+To get the full thing, we will need to review some fascinating dynamics that cut across different media technologies.
 
-As mass media is developed, it starts out as homogeneous and homogenizing, before following a predictable pattern of brand diversification driven by the construction of ever-more-refined submarkets, or exploitation\*\* of existing audience groups. The printing press, if my limited knowledge serves me, was first used to create Bibles in Latin, as had been read to the people by priests for centuries, before the great diversification of written word that accompanied the protestant reformation. Even more interesting was the evolution of programming schedules, brands, and market segments for TV and radio, which evolved in astonishingly similar ways.
+As a mass medium is developed, it starts out as a wild west, before becoming established--homogeneous and homogenizing, finally following a predictable pattern of brand diversification driven by the construction of ever-more-refined submarkets, or exploitation\*\* of existing audience groups.
+The printing press, if my limited knowledge serves me, was first used to create Bibles in Latin, as had been read to the people by priests for centuries, before the great diversification of written word that accompanied, and in some ways constituted, the Protestant reformation.
+Even more interesting was the evolution of programming schedules, brands, and market segments for TV and radio, which evolved in astonishingly similar ways.
 
-For a certain period, our right-wing conspiracist is right: mass media such as syndicated radio and TV was a monoculture. However, this peaked for radio in the early 60s, and for TV in the late 80s. 
+For a certain period, our right-wing conspiracist is right: mass media such as syndicated radio and TV was a monoculture.
+However, this peaked for radio in the early 60s, and for TV in the late 80s. 
 
-It used to be that one radio station would play soaps in the day, news at dinner, and music in the evening, often a middle-of-the-road variety show format [Golden Age, GSO]. Radio stations were limited, but were the only broadcasting technology available,  By the 70s home listening through records [LP] and the development of FM radio stations and the concept of the music format led to targeting of particular market segments, particular audiences [Origin of Format]. A fascinating side-effect of this shift, together with the white migration into the suburbs and away from cultural centers such as dance halls, led the modern phenomenon of white men being unable to dance for shit [I Don't Dance]. At the same time, with the introduction of TV, the old radio format of soaps, news, primetime dramas and evening variety had become the new TV format with few alterations [80s TV wasteland].
+It used to be that one radio station would play soaps in the day, news at dinner, and music in the evening, often a middle-of-the-road variety show format [Golden Age, GSO].
+Radio stations were limited, but were the only broadcasting technology available.
+By the 70s, home listening through records [LP] and the development of FM radio stations and the concept of the music format led to targeting of particular market segments, particular audiences [Origin of Format].
+A fascinating side-effect of this shift, together with the white migration into the suburbs and away from cultural centers such as dance halls, led to the modern phenomenon of white men being unable to dance for shit [I Don't Dance].
+At the same time, with the introduction of TV, the old radio format of soaps, news, primetime dramas and evening variety had become the new TV format with few alterations [80s TV wasteland].
 
-Things used to be very middle of the road with the big three networks. Just as the 80s were closing out, FOX used extensive market research to launch an outsider network with then-edgy shows like The Simpsons. After that came cable. The explosion of channels facilitated a similar transformation to the Format revolution in radio facilitated by FM.  While national brands such as mcdicks et al. Are in some extent a remnant of this monoculture, the internet is enabling and continues to enable ever-increasing levels of submarket development and specialization in virtually every industry. Even utilities are beginning to diversify to access submarkets- in the boston area you can pay more for greener energy produced by wind or hydro. This variety is one of the many good things produced by capitalism, though it does have the negative side effect of driving us apart. Similarly, the use of sex appeal is pursued because capitalists know that they can make money appealing to our base instincts, not due to any plot to erode culture. Similarly with individualism - people need to be reassured that being selfish and abandoning traditions is OK, and capitalism is happy to provide media that reassures them of this. Capitalists are also equally happy to sell paraphernalia supportive of traditionalism - just go look at the throw pillows for sale at your local walmart, or CMT.
+Things used to be very middle of the road with the big three networks from their establishment in the late 40s and the days of TV/Radio simulcasts through the 80s.
+However, by then, the boring landscape was ripe for exploitation by something new and differentiated.
+Just as the 80s were closing out, FOX used extensive market research to launch an outsider network with then-edgy shows like The Simpsons.
+After that came cable. 
+The explosion of channels facilitated a similar transformation as had happened in radio's Format revolution.
+While national brands such as McDicks et al. are in some extent a remnant of this monoculture, the internet is enabling and continues to enable ever-increasing levels of submarket development and specialization in virtually every industry.
+Even utilities are beginning to diversify to access submarkets--in the boston area you can pay more for greener energy produced by wind or hydro.
+This variety is one of the many good things produced by capitalism, though it does have the negative side effect of driving us apart.
+This allows me to avoid forcing my preferences on a neighbor, or having his forced on me.
+
+Similarly, the use of sex appeal is pursued because capitalists know that they can make money appealing to our base instincts, not due to any plot to erode culture.
+Similarly with individualism - people need to be reassured that being selfish and abandoning traditions is OK, and capitalism is happy to provide media that reassures them of this.
+Capitalists are also equally happy to sell paraphernalia supportive of traditionalism - just go look at the throw pillows for sale at your local walmart, or CMT.
 
 outrage media\*\*\*.
 ~~~
@@ -49,7 +73,7 @@ outrage media\*\*\*.
 
 \*\* not in the marxist sense
 
-\*\*\* in my view, one of the great tragedies of the Trump era is seeing many open-minded, highly-educated people in my social circle slowly devolving into conspiracy-minded, media-junkie troglodytes that lack even the old-timey charm of senile Fox News addicts 
+\*\*\* in my view, one of the most personally-saddening consequences of the Trump era is seeing many open-minded, highly-educated people in my social circle slowly devolving into conspiracy-minded, media-junkie troglodytes that lack even the old-timey charm of senile Fox News addicts 
 
 [Golden Age] "The variety program, a combination of comedy and music that almost always included a singing host and a guest star for the week, also dominated the period. Frequently, a comedy sketch would be included among the proceedings. The earliest examples of the form often featured a popular dance orchestra. For example, The Goodrich Silvertown Orchestra, named after its sponsor’s tires, was an hour-long program for NBC from 1926 to 1928" https://www.britannica.com/topic/radio/Variety-shows
 [GSO] " Thursday nights at 10pm ET" https://en.wikipedia.org/wiki/The_Goodrich_Silvertown_Orchestra
