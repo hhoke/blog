@@ -25,7 +25,7 @@ In brief, if it rains 80% of the time a forecasting method predicts rain, that f
 > They are of the opinion that, in the same  way  that  the  wave-particle  duality  exists  in  quantum  mechanics, more than one interpretation of probability  may have to be accepted simultaneously (Gillies 2000).
 
 ## Appendix: Probability and Chaos
-I made some connections between the coin-flip scenario and bifurcations, due to a recent encounter with Strogatz. No doubt these are not original, but if they were new to me they may be new to some readers.
+I made some connections between the coin-flip scenario and attractor dynamics, due to a recent encounter with Strogatz. No doubt these are not original, but if they were new to me they may be new to some readers.
 Consider the following scenarios:
 
 - you flip a coin
@@ -37,7 +37,7 @@ Now, take a more abstract scenario:
 - you and your friend pick a number at random out of the interval [1,0]. If they are on the same side of 0.5, you win
 - you and your friend pick either 1 or 0. If they are the same number, you win.
 
-What is happening in the case where we flip a coin is that uncertainty arises out of the bifurcation in the chaotic system of a coin falling on the ground. 
+What is happening in the case where we flip a coin is that uncertainty arises out of the attractor dynamics in the chaotic system of a coin falling on the ground. 
 This coin has an unstable fixed point (the side), and two stable fixed points (either face).
 The sensitivity to initial conditions is what creates the uncertainty here.
 
