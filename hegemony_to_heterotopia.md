@@ -29,8 +29,16 @@ FM took over in the 70
 
 how did formats get developed? How do they relate to Cable TV?
 
+"
+in 2011 they ... were only charging four dollars and 69 cents per subscriber...
+... [for] 2017 Business Insider gives the specific number of seven point two one dollars per subscription 
+"
+https://www.youtube.com/watch?v=bt-4PbhpGYE
+
 
 #The Center Will Not Hold: the mass medium lifecycle and the victory of Format
+
+## Globalist Homogenization
 
 A lot of right-wingers have this conspiracist idea that The Globalists\* are purposefully manipulating the media to homogenize tastes, wipe out local subcultures and traditions.
 You can hear this narrative on Tucker Carlson all the time.
@@ -39,9 +47,16 @@ However, it is not due to a centrally-planned plot, but rather emerges from the 
 Similarly, consolidation is only half of the story.
 To get the full thing, we will need to review some fascinating dynamics that cut across different media technologies.
 
+There are a lot of fascinating stories I only allude to below.
+Think of the below as partly essay and partly a guided tour through the bibliography.
+
+## Ecological Succession in a Mass Medium
+
 As a mass medium is developed, it starts out as a wild west, before becoming established--homogeneous and homogenizing, finally following a predictable pattern of brand diversification driven by the construction of ever-more-refined submarkets, or exploitation\*\* of existing audience groups.
-The printing press, if my limited knowledge serves me, was first used to create Bibles in Latin, as had been read to the people by priests for centuries, before the great diversification of written word that accompanied, and in some ways constituted, the Protestant reformation.
+The printing press, if my limited knowledge serves me, was first used to create Bibles in Latin, as had been read to the people by priests for centuries, before the great diversification of printed word that accompanied, and in some ways constituted, the Protestant reformation.
 Even more interesting was the evolution of programming schedules, brands, and market segments for TV and radio, which evolved in astonishingly similar ways.
+
+### Broadcast Monoculture to Narrowcast Format
 
 For a certain period, our right-wing conspiracist is right: mass media such as syndicated radio and TV was a monoculture.
 However, this peaked for radio in the early 60s, and for TV in the late 80s. 
@@ -57,19 +72,27 @@ However, by then, the boring landscape was ripe for exploitation by something ne
 Just as the 80s were closing out, FOX used extensive market research to launch an outsider network with then-edgy shows like The Simpsons.
 After that came cable. 
 The explosion of channels facilitated a similar transformation as had happened in radio's Format revolution.
-While national brands such as McDicks et al. are in some extent a remnant of this monoculture, the internet is enabling and continues to enable ever-increasing levels of submarket development and specialization in virtually every industry.
-Even utilities are beginning to diversify to access submarkets--in the boston area you can pay more for greener energy produced by wind or hydro.
-This variety is one of the many good things produced by capitalism, though it does have the negative side effect of driving us apart.
-This allows me to avoid forcing my preferences on a neighbor, or having his forced on me.
 
-Similarly, the use of sex appeal is pursued because capitalists know that they can make money appealing to our base instincts, not due to any plot to erode culture.
-Similarly with individualism - people need to be reassured that being selfish and abandoning traditions is OK, and capitalism is happy to provide media that reassures them of this.
-Capitalists are also equally happy to sell paraphernalia supportive of traditionalism - just go look at the throw pillows for sale at your local walmart, or CMT.
+//todo: cable channels
 
-outrage media\*\*\*.
+80s Cable Explosion
+
+want to cover how killer apps drive saturation, and after this there's a fight over the saturated userbase
+
+
+same shit with twitter.
+
+https://www.theverge.com/2019/2/7/18213567/twitter-to-stop-sharing-mau-as-users-decline-q4-2018-earnings
+
+### Climax Communities and Super Heavy Users
+
+twitter, journalism
+
+[Hate, Inc]outrage media\*\*\*.
+
 ~~~
 
-\*I personally find it somewhat endearing that many on the far-right have begun to use the preferred term of their leftist counterparts, "neoliberalism". (side note: the word is so overused by leftists that I will scan sociology/anthropology papers for a "neoliberalism" count before reading as a rough indicator of quality. If the count is too high, I won't read it.)
+\*I personally find it somewhat endearing that many on the far-right have begun to use the preferred term of their leftist counterparts, "neoliberalism". The word is so overused by leftists that I will use Ctrl+F to scan sociology/anthropology papers for a "neoliberalism" count before reading them, as a rough negative indicator of quality. We are not only living through neoliberal hegemony, but a growing hegemony of "neoliberalism".
 
 \*\* not in the marxist sense
 
