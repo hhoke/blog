@@ -2,11 +2,11 @@
 
 tl;dr If you're going to do something big, warn early, often, and with increasing severity and harshness.
 
-This topic is particularly apt, as I recently woke up to do my morning cardio, only to discover the Youtube Music app wouldn't work, with some cryptic error.
-It took me a couple minutes to figure out that my YouTube channel and account had been frozen.
+I recently woke up to do my morning cardio, only to discover Youtube Music displaying a cryptic error, unable to play music.
+After I gave up on debugging and decided to check my email, I saw that my YouTube channel and account had been frozen.
 No concrete or transparent explanation was given.
-The feeling was one of powerlessness, betrayal, confusion, and a desire immediately download and use spotify.
-Upon appeal, the account was reinstated completely, with many words of apology but none of explanation.
+The feeling was one of powerlessness, betrayal, confusion, and a desire to immediately download and use spotify and finish my workout.
+After an appeal and several days, the account was reinstated completely, with many words of apology but none of explanation.
 I was not left with a feeling of trust.
 
 Big tech companies can afford to piss off customers.
@@ -19,20 +19,22 @@ Might as well be a happy marriage rather than an angry one.
 ## Hey Everybody Check Out This Massive Stick Better Watch TF Out
 
 It is common practice in many tech organizations to keep an air of secrecy around operations.
-I've also heard a lot of suggestions to just change things and see if the users complain.
-This attitude persists because keeping mistakes invisible means you can avoid criticism, and acting in secret allows you to move decisively and unilaterally.
+Many just change things and see if the users complain.
+This attitude persists because obscuring your actions means you can avoid criticism, and acting in secret allows you to move decisively and unilaterally.
 
 Keeping your users in the dark is a childish way to go about this.
 We're supposed to be Adults. Professionals, even.
 
 Even if you act unilaterally, telegraphing what you're going to do before you do it shifts the political and emotional situation in your favor, and usually results in better information for everybody.
 
-Let's say you need to delete a bunch of directories that are too old or are getting too big.
+Let's say your home directories are getting low on disk space.
+Maybe some towering intellect discovered a genius hack, and now everybody in his office has a cron job that writes a 50GB text file to their home directory every Saturday at 2AM.
+Half of them don't read their emails, and are going you yell at you for a problem they created.
 I get it.
-Cruft builds up.
-The users never read emails.
-Some towering intellect discovered a genius hack, and now everybody in his office has set up a cron job that writes a 50GB text file to their home directory every Saturday at 2AM.
-Half of them don't read their emails, and are going you yell at you regardless.
+Why not just freeze all their home directories, and let the ones who 
+
+## something about control and information asymmetry
+
 If you make a habit of taking drastic action without alerting the users, at some point someone is going to wake up, try to use their home directory, and find themselves locked out.
 They will experience all those negative emotions I mentioned earlier, and they will hate and mistrust you forever.
 I, of course, love all my users, even the ones who are incompetent, careless, and ugly.
@@ -73,12 +75,6 @@ Your ass may already be covered, unlike in the previous examples, but if you car
 
 ### PS: Don't Be A Snitch (if you don't have to)
 
-I once got harassed at work.
-I've heard other people go straight to HR in this situation, which can work if HR wants to placate you more than they want to placate the person who's giving you problems.
-It might even make you feel powerful, and will allow you to avoid confronting the problem individual directly.
-I made a threat instead, or more of a promise.
-I promised the problem individual that if they didn't stop, I would go to HR.
-It never happened again. 
-I felt stronger, and that coworker respected me more and appreciated that I had chosen to talk with them and solve the problem directly instead of get them in trouble.
-Ever since then, I've known that as long as I have a backup plan, something to escalate to, I can always stand up for myself.
+I think it's usually best to talk to someone directly first about a problem, then threaten to go tell their boss if they don't work with you, and only then tell their boss.
 
+If you go right over their head, they won't like you, but in my experience, if you warn them first they will feel like you are trying to cooperate with them, and will respect you more.
