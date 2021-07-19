@@ -6,3 +6,4 @@
 - [git workflow for reproducible investigations](https://hhoke.github.io/blog/git_feature_branches_for_reproducibility.html)
 - [Best Internet Culture Vids **RARE**BITS**](https://hhoke.github.io/blog/2010_2020_internet_culture_vids.html)
 - [Digest of "Diversity of Interpretations of Probability: Implications for Weather Forecasting"](https://hhoke.github.io/blog/digest_interpretations_of_probability.html)
+- [The Embedded IT Diaries: Violent Non-Communication](https://hhoke.github.io/blog/IT_diaries_gradual.html)
