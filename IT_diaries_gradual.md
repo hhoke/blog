@@ -6,7 +6,7 @@ The other day, I woke up to do my morning cardio, only to discover Youtube Music
 Everything I tried to do resulted in a cryptic error.
 After I gave up on debugging and decided to check my email, I saw that my YouTube channel and account had been frozen.
 No concrete or transparent explanation was given.
-The feeling was one of powerlessness, betrayal, confusion, and a desire to immediately download and use spotify and finish my workout.
+The feeling was one of powerlessness, betrayal, confusion, and a strong desire to immediately download and use spotify.
 After an appeal and several days, the account was reinstated completely, with many words of apology but none of explanation.
 I was not left with a feeling of trust.
 
@@ -21,9 +21,11 @@ Might as well be a happy marriage rather than an angry one.
 
 It is common practice in many tech organizations to keep an air of secrecy around operations.
 Some people think FUD will make it easier to cover their ass, or like the feeling of power and control the information asymmetry gives them.
-The attitude is "Let's just turn it off, and if the users complain then we'll know something broke," or "Let's just roll out the upgrade tonight, what are the users going to do about it?"
-It may be the case that obscuring your actions means you can avoid criticism, and acting in secret allows you to move decisively and unilaterally (at least, until you get pushback).
-Plus, communication can be difficult.
+The attitude is "Let's just turn it off, and if the users complain then we'll know something broke," or "Let's just roll out the upgrade tonight, what are the users going to do about it?".
+
+This is understandable.
+Communication can be difficult and time-consuming.
+It is also usually the case that obscuring your actions means you can avoid criticism in the short term, and acting in secret allows you to move decisively and unilaterally (again, in the short term).
 
 However, keeping your users in the dark is and unsustainable and dysfunctional in the long term, and is, frankly, childish.
 We're supposed to be Adults. Professionals, even.
@@ -32,30 +34,33 @@ If you make a habit of taking drastic action without alerting the users, at some
 They will have no plan, and may not even know what broke, because you didn't tell them.
 They will experience all those negative emotions I experienced when youtube locked me out. 
 They may miss important deadlines or fail to close key clients.
-They will hate and mistrust you forever.
+They will hate and mistrust you for a long time, possibly for life.
+In short, the costs and consequences of not communicating are so great that they make communication the cheaper long-term option, despite its difficulty.
 
-Many of your users don't ever read your emails, and are going to yell at you basically no matter what.
+This is not to say that communication is easy.
+More likely than not, you'll have at least a couple users that are already so scarred from previous companies that they reflexively hate IT.
+Some of your users just don't care, and are entitled: they don't ever read your emails, and are going to yell at you basically no matter what.
 I get it.
 Still, we shouldn't use these lusers as an excuse to make your ops opaque and mysterious.
 
 I, of course, love all my users, even the ones who are incompetent, careless, and ugly.
-However, perhaps you like making your users feel this way, because they never read your emails and you resent having to pick up after them while they take 2-hour lunches at the Bone Fish Grill.
+However, perhaps you like making your users feel bad, because they never read your emails and you resent having to pick up after them while they take 2-hour lunches at the Bone Fish Grill.
 Worry not. You can have your cake and eat it too.
 
 ## Hey Everybody Check Out This Massive Stick Better Watch Out
 
 Even if you want to act unilaterally, telegraphing what you're going to do before you do it shifts the political and emotional situation in your favor, and usually results in better information for everybody.
 
-More than this, communicating effectively allows you to, at once, punish the lusers, reward good behavior.
+More than this, communicating effectively allows you to, at once, punish the lusers, and reward good behavior.
 In other words, you are going to teach people to treat your emails not as irrelevant scribblings but as divine instructions from a just and merciful IT god.
 
 Once you send a warning email, your faithful readers, people of the IT covenant, will act accordingly, and prepare themselves for a smooth transition.
 
-Conversely, the Philistines with 42,345 unreads in their inbox will ignore as always, only to one day wake up and discover they really should have updated that key dependency when they had the chance.
+Conversely, the Philistines with 42,345 unreads in their inbox will ignore it (as they ignore all outside stimuli), only to one day wake up and discover they really should have updated that key dependency when they had the chance.
 When they call the higher-ups to complain, your ass is covered. 
 They look careless, and you look like the guy who knows how to do his job.
 
-## Gradually Escalating Severity
+## Gradually Escalating Intensity
 
 We have established that communication is a good long-term strategy.
 Now, let's talk tactics.
@@ -63,12 +68,12 @@ Now, let's talk tactics.
 Police misconduct increasingly makes the news, so many of you may already have heard about the Minimum Use of Force principle.
 This is like the IT version of that.
 Let's say you want to shut down an old compute cluster and want users to make the transition in a timely fashion.
-Here's a framework for doing this that showcases the Gradually Escalating Severity principle.
+Here's a framework for doing this that showcases the Gradually Escalating Intensity principle.
 
 0. Consulted certain users and managers about when a good time to migrate would be, to make sure we did not overlap with busy times of the year or important deadlines.
 1. Sent out a listserv email three months in advance, telling users to migrate to the new cluster on June 1st, and that the old cluster would be off-limits except for emergencies on June 15th and would be shut down permanently at the end of the month.
 2. Sent another email on June 1st warning everybody to move off the cluster ASAP.
-3. Starting on June 15th, sent a warning email, with BCC, to all users signed in to the old cluster.
+3. Starting on June 15th, sent a warning email, with BCC, to all users with active tasks on the old cluster.
 4. Starting on June 21st, sent a email directly to the user. Sometimes they needed help, and other times just needed a firm reminder. If they were unresponsive, we contacted their supervisor. We kept going until someone had confirmed the message was received. 
 5. We shut down the cluster. 
 
