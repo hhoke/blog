@@ -74,26 +74,22 @@ Just as the 80s were closing out, FOX used extensive market research to launch a
 After that came cable. 
 The explosion of channels facilitated a similar transformation as had happened in radio's Format revolution.
 
-//todo: cable channels
+A cable saturation graph follows a roughly sigmoid growth curve, with the explosive growth phase squarely situated in the 80s, directly following a series of federal court cases. [80s Cable Explosion, HBO vs. FCC]
 
-80s Cable Explosion
-
-want to cover how killer apps drive saturation, and after this there's a fight over the saturated userbase
-
-
-same shit with twitter.
-
-https://www.theverge.com/2019/2/7/18213567/twitter-to-stop-sharing-mau-as-users-decline-q4-2018-earnings
+(something about lotsa channels and mid-2000s cable dominance)
 
 ### Climax Communities and Super Heavy Users
 
 twitter, journalism
 
+same shit with twitter.
+
+https://www.theverge.com/2019/2/7/18213567/twitter-to-stop-sharing-mau-as-users-decline-q4-2018-earnings
 [Hate, Inc]outrage media\*\*.
 
 ~~~
 
-\* I personally find it somewhat endearing that many on the far-right have begun to use the preferred term of their leftist counterparts, "neoliberalism". The word is so overused by leftists that I will use Ctrl+F to scan sociology/anthropology papers for a "neoliberalism" count before reading them, as a rough negative indicator of quality. We are not only living through neoliberal hegemony, but a growing hegemony of "neoliberalism".
+\* I personally find it somewhat endearing that many on the far-right have begun to use the preferred term of their leftist counterparts, "neoliberalism". The word is so overused by leftists that I will use Ctrl+F to scan sociology/anthropology papers for a "neoliberalism" count before reading them, as a rough negative indicator of quality. We are not only living through neoliberal hegemony, but a growing hegemony of "neoliberalism" in letters.
 
 \*\* a personally-saddening consequence of the Trump era is seeing many open-minded, highly-educated people in my social circle slowly devolving into conspiracy-minded, media-junkie troglodytes that lack even the old-timey charm of senile Fox News addicts 
 
@@ -118,6 +114,8 @@ Television never had that freewheeling infancy. From the time it became widely a
 Through thirty years of social changes and technical improvements, the three networks pumped out fare that was mostly remarkable for its consistency. Certain types of shows would become trendy or fall out of favor, hemlines went up and down, and new stars would emerge and fade, but the airwaves were always dominated by action, mystery and detective shows, soap operas, variety hours, and the ubiquitous family comedies. By the mid-1980s, American television was beginning to transition from the stuffy, centralized and highly censored world of three networks to the hundreds of channels that exist today, but it hadn’t happened yet. A person from 1955 could switch on a television in 1985 and be instantly at home. Even some of the same players were still around. Andy Griffith, star of Simpsons punching bag Matlock, had debuted on television during the Eisenhower Administration and was still one of its biggest stars under Reagan. " https://deadhomersociety.com/zombiesimpsons/zs2/
 
 [80s Cable Explosion] from 20 to 60 percent in one decade  https://www.baseballprospectus.com/news/article/6443/the-big-picture-all-star-ratings/#google_ads_iframe_/123624319/leaderboard_0_0:~:text=The%20following%20graph%20displays%20the%20percentage,1977%20to%201999%20(thanks%20to%20tvhistory.tv)%3A
+
+[HBO vs. FCC] "The federal district court in Washington, D.C., that heard the case of HBO v. FCC issued its decision in 1977. It ruled that the FCC was not justified in restricting cable TV in order to protect the broadcast networks. Following this first ruling, a whole series of court decisions overturned other FCC restrictions on cable TV. Cable operators gained the right to air current movies and sporting events, for instance, and to offer services in the nation's top television markets. The rulings also freed the cable industry from FCC requirements to provide local communities with special channels to air their own programming." https://www.encyclopedia.com/arts/news-wires-white-papers-and-books/rise-cable-television
 
 [Hate, Inc] "As a business, the news media was headed this way long before Trump. However, we’ve now arrived at a place where the Good morning, everybody model geared toward delivering information broadly has been switched out for a model that, more than ever, works backwards, beginning with the audience. It’s more like demographic targeting, or audience-framing, than information delivery." Hate, Inc. by Matt Taibbi
 
