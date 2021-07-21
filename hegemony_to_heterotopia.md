@@ -34,6 +34,7 @@ in 2011 they ... were only charging four dollars and 69 cents per subscriber...
 ... [for] 2017 Business Insider gives the specific number of seven point two one dollars per subscription 
 "
 https://www.youtube.com/watch?v=bt-4PbhpGYE
+"The Decline of ESPN...What Happened?"
 
 
 #The Center Will Not Hold: the mass medium lifecycle and the victory of Format
@@ -47,12 +48,12 @@ However, it is not due to a centrally-planned plot, but rather emerges from the 
 Similarly, consolidation is only half of the story.
 To get the full thing, we will need to review some fascinating dynamics that cut across different media technologies.
 
-There are a lot of fascinating stories I only allude to below.
-Think of the below as partly essay and partly a guided tour through the bibliography.
+(There are a lot of fascinating stories I only allude to below.
+Think of the below as partly essay and partly a guided tour through the bibliography.)
 
 ## Ecological Succession in a Mass Medium
 
-As a mass medium is developed, it starts out as a wild west, before becoming established--homogeneous and homogenizing, finally following a predictable pattern of brand diversification driven by the construction of ever-more-refined submarkets, or exploitation\*\* of existing audience groups.
+As a mass medium is developed, it starts out as a wild west, before becoming established--homogeneous and homogenizing, finally following a predictable pattern of brand diversification driven by the construction of ever-more-refined submarkets, or capitalization of existing audience groups.
 The printing press, if my limited knowledge serves me, was first used to create Bibles in Latin, as had been read to the people by priests for centuries, before the great diversification of printed word that accompanied, and in some ways constituted, the Protestant reformation.
 Even more interesting was the evolution of programming schedules, brands, and market segments for TV and radio, which evolved in astonishingly similar ways.
 
@@ -88,15 +89,13 @@ https://www.theverge.com/2019/2/7/18213567/twitter-to-stop-sharing-mau-as-users-
 
 twitter, journalism
 
-[Hate, Inc]outrage media\*\*\*.
+[Hate, Inc]outrage media\*\*.
 
 ~~~
 
-\*I personally find it somewhat endearing that many on the far-right have begun to use the preferred term of their leftist counterparts, "neoliberalism". The word is so overused by leftists that I will use Ctrl+F to scan sociology/anthropology papers for a "neoliberalism" count before reading them, as a rough negative indicator of quality. We are not only living through neoliberal hegemony, but a growing hegemony of "neoliberalism".
+\* I personally find it somewhat endearing that many on the far-right have begun to use the preferred term of their leftist counterparts, "neoliberalism". The word is so overused by leftists that I will use Ctrl+F to scan sociology/anthropology papers for a "neoliberalism" count before reading them, as a rough negative indicator of quality. We are not only living through neoliberal hegemony, but a growing hegemony of "neoliberalism".
 
-\*\* not in the marxist sense
-
-\*\*\* in my view, one of the most personally-saddening consequences of the Trump era is seeing many open-minded, highly-educated people in my social circle slowly devolving into conspiracy-minded, media-junkie troglodytes that lack even the old-timey charm of senile Fox News addicts 
+\*\* a personally-saddening consequence of the Trump era is seeing many open-minded, highly-educated people in my social circle slowly devolving into conspiracy-minded, media-junkie troglodytes that lack even the old-timey charm of senile Fox News addicts 
 
 [Golden Age] "The variety program, a combination of comedy and music that almost always included a singing host and a guest star for the week, also dominated the period. Frequently, a comedy sketch would be included among the proceedings. The earliest examples of the form often featured a popular dance orchestra. For example, The Goodrich Silvertown Orchestra, named after its sponsor’s tires, was an hour-long program for NBC from 1926 to 1928" https://www.britannica.com/topic/radio/Variety-shows
 [GSO] " Thursday nights at 10pm ET" https://en.wikipedia.org/wiki/The_Goodrich_Silvertown_Orchestra
