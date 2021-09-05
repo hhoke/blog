@@ -29,12 +29,67 @@ FM took over in the 70
 
 how did formats get developed? How do they relate to Cable TV?
 
+ESPN's Decline:
 "
 in 2011 they ... were only charging four dollars and 69 cents per subscriber...
 ... [for] 2017 Business Insider gives the specific number of seven point two one dollars per subscription 
 "
 https://www.youtube.com/watch?v=bt-4PbhpGYE
 "The Decline of ESPN...What Happened?"
+
+despite being one of the most popular cable channels, with millions of viewers, it also has one of the highest per-viewer costs
+https://www.wsj.com/graphics/channel-cost/
+
+""terrestrial loophole"" used by MSG
+
+"Bundling scores of networks together has endured in large part because the programmers and distributors both made huge profits from new channels, rising numbers of subscribers and steadily higher cable bills. Plus, until recently, it would have been a logistical nightmare for distributors to sell channels individually."
+
+"
+At the time, the idea of selling channels individually didn’t enter the equation. Tailoring packages of channels to customers was technologically challenging, and the costs and management of billing were seen as prohibitive.
+"
+"
+“The history of the pay-TV bundle is the history of a forced private subsidization imposed upon the American public by America’s largest programmers,” said Jimmy Schaeffler, chairman of the Carmel Group, an industry consulting firm.
+"
+https://www.wsj.com/articles/why-does-the-cable-tv-bundle-exist-anyway-1433807825
+
+"Second, by way of explaining why most cable services leave much to be desired, is that the U.S. cable infrastructure was built because tax laws made it a nice way of making lots of money, not because anyone actually cared about television."
+"
+The second lesson we can draw from this book has to do with the place of content as a force and source of revenue on the Internet. Look at how the cable industry grew: In the very beginning, it was about giving people in rural areas access to some TV, as opposed to none at all. Similarly, during cable's nationwide expansion, it was about getting connected -- getting access. The carriers, not the programmers, had the upper hand. Only after cable access became commonplace and cable channels developed brand identities did content achieve primacy in the eyes of consumers. TCI's history with ESPN is a very concrete illustration of this point. By the late 1980s, people took their cable hookups for granted, but they wanted their MTV.
+"
+http://edition.cnn.com/TECH/computing/9812/04/500channels.idg/index.html``
+
+"pick your winners"
+https://www.wsj.com/articles/small-cable-channels-you-pay-forbut-dont-watchare-dying-1490111102
+
+Development of Drive-time radio?
+
+"
+Plenty of broadcast stations and cable systems have made deals without the benefit of bitter ad campaigns. Many agreements do not involve direct payments, but the creation of new cable channels to be run by broadcast networks and carried by the cable systems.
+ 
+ABC, for example, has reached a deal with several of the nation's largest cable operators, including Time Warner Cable, that will let the operators carry ABC's eight owned-and-operated stations, including WABC in New York. The systems will receive the ABC stations' programming without cost. In return, ABC, a majority owner of ESPN, will be able to show a new cable channel, ESPN2, and receive a per-subscriber fee.
+ 
+The Fox Broadcasting network, which is planning a new cable channel with an unspecified format, reached similar deals with several major cable operators, including Tele-Communications Inc. And last week, NBC said it signed a deal with Time Warner that covers its six owned-and-operated stations, including WNBC in New York, and involves creating a new all-talk cable channel. CBS, which does not own a cable channel, has been unable to make any cash deals with major cable systems."
+https://www.nytimes.com/1993/08/23/business/media-business-television-pay-not-pay-war-words-heats-up-between-cable-systems.html
+
+Interview with Neil Cavuto?
+https://www.brandingstrategyinsider.com/fox-news-brand-reached-cult-status/
+
+what's different about media? generational effects
+
+there's something interesting about the ability to milk more money out of the population of diehard subs once growth stops.
+
+"
+in an age when many restaurants are introducing low-calorie alternatives, why would Taco Bell dip its popular Gordita, a stuffed pita concoction, into a deep fry to create a higher-calorie and higher-fat version, the Chalupa? Advertisements for the Chalupa never say this, but its creation was "aimed at increasing transactions with our core heavy fast-food users," according to a recent Tricon International quarterly-earnings press release.
+"
+
+"
+"People may talk healthy, but they don't buy healthy," said Thomas H. Strenk, managing editor of Restaurant Business magazine. "When they go out to a restaurant, they want to splurge."
+"
+"
+Many fast-food places do have light items like salads and yogurt, but these are included to round out the menu and prevent customers from automatically ruling out the restaurant because its food is too heavy.
+"
+Giving The People What They Want
+https://web.archive.org/web/20100315175507/https://www.nytimes.com/1991/03/19/business/fast-food-lightens-up-but-sales-are-often-thin.html
 
 
 #The Center Will Not Hold: the mass medium lifecycle and the victory of Format
