@@ -220,9 +220,10 @@ def is_role_set(c):
 As mentioned elsewhere, Groups can be operated on as if they are lists of Connections, but the default constructor creates connections using a serial list comprehension and so has a runtime of (# Connections * 10 seconds). As group construction is an essential part of setup, this is not acceptable. I fixed this by wrapping the creation of connections with asyncio for largely concurrent execution, which gives a runtime more on the order of 10 seconds rather than 200.
 
 The second reason this is cursed is honestly just look at it.
-Global runtime object.
-Default required `set-role` task and a `is-role-set` pretask to enforce this.
-Cursed!
+
+- Global runtime object.
+- Default required `set-role` task complete with`is-role-set` pretask to enforce this.
+- Cursed!
 
 ## Blessed Retry Logic 
 
