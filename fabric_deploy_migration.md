@@ -3,7 +3,7 @@ layout: default
 comments: true
 ---
 
-# Designing a Simple Deploy Script in Fabric 2
+# Patterns for Migration From Fabric 1 to Fabric 2
 
 Fabric 1 is deprecated.
 I had to move a reasonably complicated deploy script from fabric 1 to fabric 2.
