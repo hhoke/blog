@@ -27,6 +27,7 @@ If you read both the Invoke and Fabric docs thoroughly it's not so bad, but this
 For example, I use `-r` to enable calling the same fabfile from any directory.
 (specifically, I have an alias in my `~/.zshrc`, `alias efab="fab -r /PATH/TO/DIR/CONTAINING/THE/FABFILE/I/USE"`).
 When my code was being reviewed, my reviewer went to the [CLI docs](https://docs.fabfile.org/en/2.6/cli.html), ran a find command to locate `-r`, and couldn't find it.
+This is because it was not there, but is only in the invoke docs.
 There's a note to check the invoke docs, and a link there, so I was easily able to figure this out and explain it.
 However, the fact that the user interface itself has the inherited functionality right there, but the docs are nested, is confusing.
 
