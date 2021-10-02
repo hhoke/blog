@@ -8,3 +8,4 @@
 - [Digest of "Diversity of Interpretations of Probability: Implications for Weather Forecasting"](https://hhoke.github.io/blog/digest_interpretations_of_probability.html)
 - [The Embedded IT Diaries: Violent Non-Communication](https://hhoke.github.io/blog/IT_diaries_gradual.html)
 - [Neither Reading Nor Glasses are Sexy, But That Won't Stop You From Fantasizing](https://hhoke.github.io/blog/reading_is_not_sexy.html)
+- [Fabric2 Migration Guide](https://hhoke.github.io/blog/fabric_deploy_migration.html)
