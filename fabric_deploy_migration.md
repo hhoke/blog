@@ -10,7 +10,7 @@ I had to move a reasonably complicated deploy script from fabric 1 to fabric 2.
 I wrote this for me-at-the-beginning-of-this-project, so if you are frantically googling this topic I hope this turns up.
 Here is what I learned.
 
-## Fabric Migrations
+## Useful Guides
 
 There is the [Official Fabric Guide](https://www.fabfile.org/upgrading.html) for detailed reference use.
 
