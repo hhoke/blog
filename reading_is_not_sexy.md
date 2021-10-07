@@ -8,9 +8,9 @@ Finding illiteracy undesirable, however, is not the same as being sexually attra
 
 I'm sure people find "reading", as a trait, attractive, not in a sexual way but in an affiliative, friendly one.
 It has been well established that people like others who are similar to them, who share traits or identities with them.
-The shop selling this graphic says, "Bookworms are HOT!"
-So, in addition to appealing to a vague affiliative feeling borne of loosely-defined similarities, this is explicitly reinforcing and signaling the bookworm identity.
-Obviously, bookworms are not, as a group, hot, but there is something here beyond mere ingroup-signaling and wishful speaking, something genuinely sexual (or perhaps romantic).
+More than appealing to a vague affiliative feeling borne of loosely-defined similarities, this is explicitly reinforcing and signaling the bookworm identity:
+The shop selling the above graphic says, "Bookworms are HOT!".
+Obviously, bookworms are not, as a group, hot, but there is something here beyond mere ingroup-signaling and wishful writing, something genuinely sexual (or perhaps romantic).
 
 First, a difficulty to overcome, to do with the overly reductionist way in which many people describe their own sexuality.
 While someone might say they like "wide hips" or "big shoulders", what really matters for most is the visual contrast with the rest of the body, that is, the WHR or SHR.
@@ -20,35 +20,53 @@ Some may understand this metonymy explicitly or implicitly, but many simply do n
 This is not a problem we can really get to the bottom of, but one that must be resolved by reconstructing, in words, those crucial components that had been left out of the explicit verbal description.
 Hips and shoulders have already been covered. What about glasses?
 
-I first want to note that many profess that "glasses are sexy", a statement analogous to "reading is sexy".
-This is implicit in such constructions as ubiquitous and low-class as the listicle title "Girls with glasses are so sexy (25 pics)".
+Glasses often serve as a metonym, sign, or signal of bookwormery.
+I have heard often that, as "reading is sexy", so, too, "glasses are sexy".
+Their dual nature as actual physical objects and as a signal of more abstract character traits makes them an interesting case.
+For now, let's elide this distinction.
 
-Glasses often serve as a metonym, sign, or signal, but I want to leave this aside now and consider the pair of eyeglasses as a perceptual phenomenon and real object.
-Glasses, and other ornaments like nose rings or necklaces, draw our attention, drag it around, and provide contrast and focus.
+Take the listicle title "Girls with glasses are so sexy (25 pics)".
+I will spend much of the rest of the essay explaining why this is improper, and that "17 hot girls wearing glasses" is the proper construction.
+This is true both for actual, physical glasses, and spectacles-as-signs.
+Physical objects are easier to think about, so I will discuss them first.
+
+Consider the pair of eyeglasses as a perceptual phenomenon and real object.
+Glasses, and other ornaments such as nose rings or necklaces, draw our attention, drag it around, and provide contrast and focus.
 Let's return to the "reading is sexy" design from the beginning.
 The frame of the glasses accentuates and draws attention to points of attraction: her confident gaze, and her beautiful eyes.
-We can easily imagine another common fantasy scenario - manicured fingers deftly place glasses over her downcast eyes, which snap up to catch yours, as her fingertips slowly, gently trace a path back down smooth cheeks.
-Now, imagine the same cheek, pocked with a yellow-greening, angry infection.
+
+We can easily imagine another common fantasy scenario:
+
+A beautiful woman's head is bowed, looking down at a pair of glasses.
+Manicured hands deftly place them over her downcast eyes, which snap up to catch yours.
+Through a long moment, her gentle fingertips pause on smooth cheeks, before slowly tracing a path back down.
+Now, imagine the same, over cheeks pocked with a yellow-greening, angry infection.
 Glasses aren't sexy, cheeks are.
-We can repeat the same exercise with the "temple tip on lip" pose, which is also commonly replicated with a pencil or pen.
-Neither pens nor glasses are sexy, lips are.
+
+We can repeat the same exercise with the "temple tip on lip" pose (which can also be done with a pencil).
+Neither pencils nor glasses are sexy, lips are.
 Pencils are not "IT", but if you have it, you can use a pencil to draw attention to it.
 
-Speaking generally now, an ornament has a enhancing and distorting effect on the traits it highlights.
-If the thing it draws attention to is beautiful, the experience of perception is made more beautiful.
-Glasses are less of a static ornament, like a piece of glittering jewelry is, but are better described as props.
-All the fantasy scenarios previously discussed have some element of motion or implied action (even if that is just fixing you in her gaze).
-An ornament could adorn a static figure of beauty, such as a statue, but the term "prop" implies agency and motion (even if they are only implied, e.g. the woman's gaze in "reading is sexy").
-I have, hopefully, already established that glasses can serve fantastically as a prop
-What about something a bit more dull, like a book?
+Many of the fantasy scenarios previously discussed have some element of motion or implied action.
+Take almost any Tom of Finland drawing.
+There is an implied motion in the belt strap pulled tight against the lower back.
+In that same drawing, a belt buckle gives no implication of motion, but catches the eye and draws it to the parts of the drawing that make you squirm.
+There is a whole universe of ways that visual artists can manipulate our attention and our perceptions, and stylists as much as painters.
 
-In order to realize a book's potential as a prop, we have to break through the surface-level sensual fantasy, with its perceptual dynamics, and fully submerse ourselves in a robust fantasy world, and its dynamics of situated longing.
+Speaking generally now, an ornament increases the salience of the traits it highlights, distorting the perception of the scene.
+If the thing an ornament draws attention to is beautiful, the experience of the scene is made more beautiful.
+
+Having covered sensual visions with perceptual dynamics, we move on to discuss robust dreams, real romantic dramas.
+Glasses can be an ornament, same as a piece of glittering jewelry, but can also serve as props.
+That is, a pair of glasses can serve as something that helps complete and situate a character, something that naturally comes along with it.
+
+A bookworm fantasy:
 
 Imagine the man of your desires.
-You've been reading Shakespeare together.
-You're discussing it together in front of a fire he has made for you.
-Wrapped in his quiet, warm strength, he stares, almost in awe, into your eyes and softly remarks, "I never thought about King Lear that way before".
-You feel seen, known, loved.
+You've been reading Shakespeare together, and are deep in discussion, in front of a fire he has made for you.
+Wrapped in his quiet, warm strength, he gazes at you, a curious joy on his face.
+Almost in awe, he softly remarks, "I never thought about King Lear that way before".
+You feel seen, known, cherished.
 
 Nobody fantasizes about an ugly, unkempt man turning to them, eyes dull with disease, and stammering out "I n-never thought about Richard th- Richard the Third that way, um, ah before, you're p-pretty smart for, I mean, for a girl."
 
@@ -60,7 +78,10 @@ However, Mr. Right is not handsome because he reads any more than Nicki Minaj is
 Reading is of romantic consequence, of course.
 It opens up worlds of possibilities, settings and opportunities to love and be loved, as would any shared interest.
 Perhaps it makes sense to say that dance, or reading, or fishing is romantic.
-It's still not sexy. Girls with glasses are not, with apologies to listicle writers, so sexy.
+But let's not fetishize away the ecstasy of sensual enjoyment into a medical device of wire and glass.
+Let us not mistake brand compatibility for a romance of character, nor the setting for the scene.
+
+Girls with glasses are not, with apologies to listicle writer #1, so sexy.
 To books, and to glasses and nose rings will be ascribed what a beautiful person can make of them.
 
-In a nutshell: "17 hot girls wearing glasses" is the proper construction.
+In a nutshell: "Girls with glasses are so sexy (25 pics)" confuses the focus of attention for the source and cause of an experience, and "17 hot girls wearing glasses" is the proper construction.
