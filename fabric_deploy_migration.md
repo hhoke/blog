@@ -8,7 +8,7 @@ comments: true
 Fabric 1 is deprecated.
 I had to move a reasonably complicated deploy script from fabric 1 to fabric 2.
 I wrote this for me-at-the-beginning-of-this-project, so if you are frantically googling this topic I hope this turns up.
-Here is what I learned.
+My goal is to provide a useful guide to how to effectively understand and work with fabric 2, especially if you are coming from a fabric 1 background.
 
 ## Useful Guides
 
@@ -17,21 +17,21 @@ There is the [Official Fabric Guide](https://www.fabfile.org/upgrading.html) for
 I also found [Yoong Kang's deploy guide](https://yoongkang.com/blog/fabric-deployment/) extremely useful, because it explained some of the tricky bits needed to pull off a successful migration.
 One of these tricks is understanding that much of Fabric is meant to inherit functionality from Invoke.
 
-## Rants and Raves
-### Rant: Parent and Child Docs
+## General Principles
+### Navigating Parent and Child Docs
 
 Fabric inherits functionality from Invoke in a very seamless way so that it appears this is fabric functionality.
 The documentation of this functionality stays in Invoke, which can be confusing if you are just looking at Fabric.
-If you read both the Invoke and Fabric docs thoroughly it's not so bad, but this can make it hard to get started.
+The key is to understand that the documentation just follows the DRY principle, and that you are going to need to look at both Fabric and Invoke, as well as maybe Paramiko or Patchwork libraries to find what you're looking for.
 
 For example, I use `-r` to enable calling the same fabfile from any directory.
 (specifically, I have an alias in my `~/.zshrc`, `alias efab="fab -r /PATH/TO/DIR/CONTAINING/THE/FABFILE/I/USE"`).
 When my code was being reviewed, my reviewer went to the [CLI docs](https://docs.fabfile.org/en/2.6/cli.html), ran a find command to locate `-r`, and couldn't find it.
 This is because it was not there, but is only in the invoke docs.
 There's a note to check the invoke docs, and a link there, so I was easily able to figure this out and explain it.
-However, the fact that the user interface itself has the inherited functionality right there, but the docs are nested, is confusing.
+I don't know how to go about fixing this, but the fact that the user interface itself has the inherited functionality right there, but the docs websites are nested, is confusing.
 
-### Rant: Ugly Workarounds 
+### Hacks Required
 
 You could do things straightforwardly in fabric 1 that require ugly workarounds in fabric2:
 
@@ -41,21 +41,21 @@ You could do things straightforwardly in fabric 1 that require ugly workarounds 
 
 My deploy script in particular made heavy use of roles, which are not implemented in fabric 2 and required some hacky workarounds.
 
-The lack of roles was a huge problem for me and [others](https://github.com/fabric/fabric/issues/2156).
+The lack of roles was a serious problem for me and [others](https://github.com/fabric/fabric/issues/2156).
 I'm relying entirely on a role-my-own runtime object in order to construct and pass around a role the way I want.
 More on this in the [Cursed Roles Workaround](#cursed-roles-workaround).
 
 The closest thing I could find to roles were Groups, and you cannot pass Groups as Contexts/Connections to tasks.
 This means that even if you use groups extensively, you still have to define tasks with a c-for-context-or-connection argument, and pass a dummy context to a task whenever you call it from another task, even if you never make use of this.
 
-### Rave: Getting Rid of Env
+### So Long, Env!
 
 Fabric1's `env`, while useful, could easily get huge and bloated.
 With Fabric2, I was able to break it up into two separate objects, both of which were much smaller and well-defined.
 My config files are smaller, and better-defined.
 Plus, I can import them like an actual human being now instead of the strange workaround I had for Fabric1, where I defined most functions in a `fab_common.py` file, then imported from there into what was basically a glorified config file with `from fab_common import *`, and finally symlinked this glorified config file AND `fab_common` into the deploy directory of each project.
 
-### Rave: Just Enough Magic
+### Just Enough Magic
 
 Less magic means less strange workarounds to deal with the magic.
 Groups and explicit connections in particular allowed me to do a lot of neat things (see section on [Blessed Groups Retry Logic](#blessed-groups-retry-logic)).
@@ -152,6 +152,41 @@ In fab1, I defined a `@runs_once` task, `select`, where I `execute` a `@parallel
 This allows me to do some things once, and parallelize other things across all specified hosts.
 
 In fabric2, I was able to achieve the same thing in a somewhat cleaner way by using [Groups](https://docs.fabfile.org/en/2.6/api/group.html).
+
+As my code has aged (like wine, of course!), I have found the modularity this enables to be useful.
+Take the following batch feature, which I implemented to stagger restarts rather than doing them all at once.
+
+## Friendship Ended with Thread Pool, Now Batching Is My Best Friend
+
+In line with my experience, fabric2 eliminated a useful feature, thread pool limits, and also enabled a useful solution to the problem that turned out being better than the original.
+In the execution model used under fabric1, a task is run as a unit under a particular set of host and environment variables, concurrently with other tasks being run with different host parameters.
+If this was still the case, I would have had to use a workaround where I import `threading` and use `threadLimiter.acquire()` at the top of my script.
+Instead, I was able to replace a single call to `group.sudo` with a wrapper function, and leave the rest of the script without any thread limits.
+This allowed me to run only the app restart in batches to ensure uptime.
+Crucially, it was only possible because of how fabric2 allows you to pass around explicit connections from group to group.
+
+```
+def batch_sudo_cmd(cmd, kwargs=None, batches=None, group=None):
+    """batch a command by splitting up group into subgroups and running them sequentially.
+    This is useful so that, e.g. we do not restart all the app servers at once"""
+    if batches is None or batches < 1:
+        batches = 4
+
+    if group is None:
+        group = runtime.rungroup
+    grouptype = type(group)
+    batch_size = len(group)//batches
+    if batch_size == 0:
+        batch_size = 1
+    subgroups = []
+    for i in range(0, len(group), batch_size):
+        temp_group = grouptype()
+        temp_group.extend(group[i:i+batch_size])
+        subgroups.append(temp_group)
+
+    for subgroup in subgroups:
+        subgroup.sudo(cmd, **kwargs)
+```
 
 ## Cursed Roles Workaround
 
@@ -272,9 +307,11 @@ You could also use a similar pattern to this to only update files on hosts where
 
 ## Conclusion
 
-This was more difficult than I felt it should be, but not so difficult that I abandoned fabric and started using Ansible or wrote something into one of our go codebases, which were the other two main options.
+This was more difficult than I felt it could be, but not so difficult that I abandoned fabric and started using Ansible or wrote something into one of our go codebases, which were the other two main options.
 Hopefully these notes will be useful to anyone who decides to stick with fabric.
-If I had to do it again, I would have given more serious consideration to the configuration management tools mentioned in [this article](https://blog.rfox.eu/en/Explorations/Trying_Ansible_alternatives_in_python.html).
+If I had to do it again, I would have given more serious consideration to configuration management tools mentioned in [this article](https://gitlab.torproject.org/tpo/tpa/team/-/wikis/howto/fabric/#alternatives-considered).
+That being said, I hear that pyinfra has poor performance, and a faster alternative, transilience, is relatively new and unproven.
+Ultimately, I am satisfied with my codebase, and I hope my notes help you all improve your own fabric codebases.
 
 {% if page.comments %}
 <div id="disqus_thread"></div>
