@@ -192,7 +192,7 @@ def batch_sudo_cmd(cmd, kwargs=None, batches=None, group=None):
 
 ## Cursed Roles Workaround
 
-Maybe *cursed* is a strong word, but it's at least SpOoKy
+Maybe _cursed_ is a strong word, but it's at least **SpOoKy**.
 
 ```python
 # use this one file for multiple projects
@@ -257,11 +257,6 @@ def is_role_set(c):
 
 As mentioned elsewhere, Groups can be operated on as if they are lists of Connections, but the default constructor creates connections using a serial list comprehension and so has a runtime of (# Connections * 10 seconds). As group construction is an essential part of setup, this is not acceptable. I fixed this by wrapping the creation of connections with asyncio for largely concurrent execution, which gives a runtime more on the order of 10 seconds rather than 200.
 
-The second reason this is cursed is honestly just look at it.
-
-- Global runtime object.
-- Default required `set-role` task complete with`is-role-set` pretask to enforce this.
-- Cursed!
 
 ## Blessed Retry Logic 
 
