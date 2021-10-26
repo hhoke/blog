@@ -33,7 +33,9 @@ I don't know how to go about fixing this, but the fact that the user interface i
 
 ### Hacks Required
 
-You could do things straightforwardly in fabric 1 that require ugly workarounds in fabric2:
+You could do things straightforwardly in fabric 1 that require ugly workarounds in fabric2.
+
+For example, I needed to use workarounds because I could not do the following:
 
 - [use `put` with `use_sudo`](https://github.com/fabric/fabric/issues/1750)
 - [use Invoke contexts like `with cd` with Groups](https://github.com/fabric/fabric/issues/1861)
@@ -58,7 +60,7 @@ Plus, I can import them like an actual human being now instead of the strange wo
 ### Just Enough Magic
 
 Less magic means less strange workarounds to deal with the magic.
-Groups and explicit connections in particular allowed me to do a lot of neat things (see section on [Blessed Groups Retry Logic](#blessed-groups-retry-logic)).
+Groups and explicit connections in particular allowed me to do a lot of neat things (see section on [Blessed Retry Logic](#blessed-retry-logic)).
 I *love* the fact that Groups can be operated on as if they are lists of Connections.
 Plus, Paramiko still just works (though unfortunately, [not in some people's virtualenvs](https://github.com/paramiko/paramiko/issues/1181)).
 
@@ -91,7 +93,7 @@ def _select(build_name):
     return prev
 
 def _create_link(build_name):
-    prev = sudo("readlink current || echo """, user="evergreen")
+    prev = sudo("readlink current", user="evergreen")
     sudo("rm -f current", user="evergreen")
     sudo("ln -s {0} current".format(build_name), user="evergreen")
     return prev
@@ -156,7 +158,7 @@ In fabric2, I was able to achieve the same thing in a somewhat cleaner way by us
 As my code has aged (like wine, of course!), I have found the modularity this enables to be useful.
 Take the following batch feature, which I implemented to stagger restarts rather than doing them all at once.
 
-## Friendship Ended with Thread Pool, Now Batching Is My Best Friend
+## Friendship Ended With Thread Pool, Now Batching Is My Best Friend
 
 In line with my experience, fabric2 eliminated a useful feature, thread pool limits, and also enabled a useful solution to the problem that turned out being better than the original.
 In the execution model used under fabric1, a task is run as a unit under a particular set of host and environment variables, concurrently with other tasks being run with different host parameters.
@@ -165,7 +167,7 @@ Instead, I was able to replace a single call to `group.sudo` with a wrapper func
 This allowed me to run only the app restart in batches to ensure uptime.
 Crucially, it was only possible because of how fabric2 allows you to pass around explicit connections from group to group.
 
-```
+```python
 def batch_sudo_cmd(cmd, kwargs=None, batches=None, group=None):
     """batch a command by splitting up group into subgroups and running them sequentially.
     This is useful so that, e.g. we do not restart all the app servers at once"""
@@ -190,7 +192,7 @@ def batch_sudo_cmd(cmd, kwargs=None, batches=None, group=None):
 
 ## Cursed Roles Workaround
 
-Double-Cursed this workaround is, and for sooth this code is Double-Cursed.
+Maybe *cursed* is a strong word, but it's at least SpOoKy
 
 ```python
 # use this one file for multiple projects
@@ -307,11 +309,12 @@ You could also use a similar pattern to this to only update files on hosts where
 
 ## Conclusion
 
-This was more difficult than I felt it could be, but not so difficult that I abandoned fabric and started using Ansible or wrote something into one of our go codebases, which were the other two main options.
+This was more difficult than I expected, but not so difficult that I abandoned fabric and started using Ansible or wrote something into one of our go codebases, which were the other two main options.
 Hopefully these notes will be useful to anyone who decides to stick with fabric.
 If I had to do it again, I would have given more serious consideration to configuration management tools mentioned in [this article](https://gitlab.torproject.org/tpo/tpa/team/-/wikis/howto/fabric/#alternatives-considered).
 That being said, I hear that pyinfra has poor performance, and a faster alternative, transilience, is relatively new and unproven.
-Ultimately, I am satisfied with my codebase, and I hope my notes help you all improve your own fabric codebases.
+
+Ultimately, I am satisfied with my fabric codebase, and I hope my notes help you all improve your own fabric codebases.
 
 {% if page.comments %}
 <div id="disqus_thread"></div>
