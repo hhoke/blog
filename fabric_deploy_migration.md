@@ -202,9 +202,9 @@ codebase = __import__(codebase_name)
 # helper class for roles
 class Runtime:
     def __init__(self):
-        active_role = None
-        canary = None
-        rungroup = None
+        self.active_role = None
+        self.canary = None
+        self.rungroup = None
 
 runtime = Runtime()
 
