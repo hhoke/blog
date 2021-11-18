@@ -302,6 +302,164 @@ If you need to handle more gnarly retries, you may want to check out the result.
 
 You could also use a similar pattern to this to only update files on hosts where the file differs from a template file on your deploy machine.
 
+## More Retry Logic
+
+I'm just going to dump this here in case anyone finds it useful.
+
+```python
+
+def retry_transfer_exceptions(cmd, source, dest, group=None):
+    """ Retries transfer.put and transfer.get if exceptions occur"""
+    if group is None:
+        group = runtime.rungroup
+    retries = 3
+    grouptype = type(group)
+
+    def pre_exit(result):
+        print(cmd)
+        print(source)
+        print(dest)
+        for connection in result:
+            print(connection)
+            print(result[connection])
+
+    def run_with_catch(rungroup):
+        """returns result"""
+        try:
+            if cmd == "put":
+                rungroup.put(source, dest)
+            elif cmd == "get":
+                rungroup.get(source, local=dest)
+            else:
+                raise Exit(f"programmer error: {cmd} instead of 'put' or 'get'")
+            return
+        except fabric.exceptions.GroupException as e:
+            return e.result
+
+    errors = run_with_catch(group)
+
+    if errors is None:
+        return
+
+    retry_group = grouptype()
+    for connection in errors:
+        if isinstance(errors[connection], Exception):
+            retry_group.append(connection)
+
+    # if we're here, that means there were some failed results which need to be retried
+    tries_taken = 1
+    while tries_taken < retries and retry_group:
+        print("Retrying...")
+        tries_taken += 1
+        retry_errors = run_with_catch(retry_group)
+        retry_group = grouptype()
+        for connection in retry_errors:
+            if isinstance(errors[connection], Exception):
+                retry_group.append(connection)
+        time.sleep(5)
+
+    if retry_errors is None:
+        return
+
+    # for some connections, all retries failed -- refresh connections
+    print("Refreshing connections...")
+    refreshed_group = _refresh_connections(retry_group, grouptype)
+    # retry once more
+    time.sleep(5)
+    retry_result = run_with_catch(refreshed_group)
+
+    if retry_result:
+        pre_exit(retry_result)
+        raise Exit("Some commands failed to run")
+
+    return 
+
+def retry_ssh_exceptions(cmd, kwargs=None, sudo=False, group=None):
+    """retries group.run and group.sudo if SSH exceptions occur"""
+    if sudo:
+        default_kwargs = {"user":"evergreen", 
+                "hide":True}
+    else:
+        default_kwargs = {"warn":True,
+                "hide":True}
+    if kwargs is None:
+        kwargs = default_kwargs
+    if group is None:
+        group = runtime.rungroup
+    retries = 3
+    grouptype = type(group)
+
+    def pre_exit(result):
+        print(cmd)
+        print(kwargs)
+        for connection in result:
+            print(connection)
+            print(result[connection])
+
+    def run_with_catch(rungroup):
+        """returns result"""
+        try:
+            if sudo:
+                result = rungroup.sudo(cmd, **kwargs)
+            else:
+                result = rungroup.run(cmd, **kwargs)
+        except fabric.exceptions.GroupException as e:
+            result = e.result
+        return result
+
+    result = run_with_catch(group)
+
+    if not result.failed:
+        return result
+
+    retry_group = grouptype()
+    for connection in result.failed:
+        retry_group.append(connection)
+
+    # if we're here, that means there were some failed results which need to be retried
+    tries_taken = 1
+    while tries_taken < retries and retry_group:
+        print("Retrying...")
+        tries_taken += 1
+        retry_result = run_with_catch(retry_group)
+        for connection in retry_result.succeeded:
+            result[connection] = retry_result[connection]
+            result.succeeded[connection] = retry_result[connection]
+            retry_group.remove(connection)
+            del result.failed[connection]
+        time.sleep(5)
+    
+    if result.failed:
+        print("Refreshing connections...")
+        refreshed_group = _refresh_connections(retry_group, grouptype)
+        # sort in host order. It's not the strict numerical order, but it's stable.
+        refreshed_group.sort()
+        retry_group.sort()
+        for conn, r_conn in zip(retry_group, refreshed_group):
+            group.remove(conn)
+            group.append(r_conn)
+            retry_group.remove(conn)
+            retry_group.append(r_conn)
+            error = result[conn]
+            del result[conn]
+            result[r_conn] = error
+        # retry once more
+        time.sleep(5)
+        retry_result = run_with_catch(retry_group)
+        if retry_result.succeeded:
+            for connection in retry_result.succeeded:
+                result[connection] = retry_result[connection]
+                result.succeeded[connection] = retry_result[connection]
+                del result.failed[connection]
+                retry_group.remove(connection)
+
+    if result.failed:
+        pre_exit(result)
+        raise Exit("Some commands failed to run")
+
+    return result
+```
+
 ## Conclusion
 
 This was more difficult than I expected, but not so difficult that I abandoned fabric and started using Ansible or wrote something into one of our go codebases, which were the other two main options.
