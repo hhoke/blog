@@ -12,11 +12,11 @@ This kind of question never fails to irritate me a lot for being poorly-thought-
 
 Firstly, what is "just a infinite McDonalds"? "just" is incoherent. Every McDonalds is deeply interconnected with its surrounding environment. It requires constant shipments of beef and so on, and a constant influx of customers. As Derrida once suggested, perhaps there is no outside-McDonalds. Or is there?
 
-Another example may be more instructive: a universe of "just" infinite earths. However, the earth as we know it draws its characteristics in relation to the sun. Its orbit, the climate, and the most important property of all, the ability to sustain life. Jeremy England's theory of "dissipation-driven adaptation" suggests that life of some kind is an inevitable consequence of the thermodynamic properties of earth: we are an open system continually bathed in solar rays, in energy from the sun.
+Another example may be more instructive: a universe of "just" infinite earths. However, the earth as we know it draws its characteristics in relation to the sun. To name a few: the seasons, the climate in general, and the most important property of all, the ability to sustain life. Jeremy England's theory of "dissipation-driven adaptation" suggests that life of some kind is an inevitable consequence of the thermodynamic properties of earth: we are an open system continually bathed in solar rays, in energy from the sun.
 
 So, our McDonaldsVerse has two problems:
 1) How much of our current world do we need to drag along with us to sustain a coherent McDonalds,
 and
 2) In what sense is the McDonalds infinite? Along which of the many conceivable McDimensions, both of physical and McConfiguration Space?
 
-There is something we can say without addressing these problems: according to Jeremy England's theory, assuming there is some long-term self-sufficient reaction to bathe the system in exogenous heat, there will be no life. Let's just assume we have a totally sterile, animal-free McDonalds, because that's cooler than what OP said. Whether we see life or not depends on whether someone remembers to turn the stove off or not before the creators leave the 'Verse.
+There is something we can say without addressing these problems: according to Jeremy England's theory, unless there is some long-term self-sufficient reaction to bathe the system in exogenous heat, there will be no life. Let's just assume we have a totally sterile, animal-free McDonalds, because that's cooler than what OP said. Whether we see life or not depends on whether someone leaves the stove on or not before the creators leave the 'Verse.
