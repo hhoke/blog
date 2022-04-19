@@ -1,4 +1,4 @@
-# infimcD
+# infiMcD
 
 (a response to [this](https://www.reddit.com/r/NoStupidQuestions/comments/an76jc/how_would_life_evolve_in_a_infinite_mcdonalds/))
 
