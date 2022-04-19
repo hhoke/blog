@@ -31,10 +31,11 @@ However, keeping your users in the dark is and unsustainable and dysfunctional i
 We're supposed to be Adults. Professionals, even.
 
 If you make a habit of taking drastic action without alerting the users, at some point someone is going to wake up, try to run their usual workflow, and find that everything has broken.
-They will have no plan, and may not even know what broke, because you didn't tell them.
+They will have no plan, and may not even know what broke, and may waste hours debugging.
 They will experience all those negative emotions I experienced when youtube locked me out. 
 They may miss important deadlines or fail to close key clients.
 They will hate and mistrust you for a long time, possibly for life.
+If this happens chronically, they may develop learned helplessness, settle into a listless and unproductive state, or get in the habit of blaming IT for slowdowns.
 In short, the costs and consequences of not communicating are so great that they make communication the cheaper long-term option, despite its difficulty.
 
 This is not to say that communication is easy.
@@ -49,16 +50,17 @@ Worry not. You can have your cake and eat it too.
 
 ## Hey Everybody Check Out This Massive Stick Better Watch Out
 
-Even if you want to act unilaterally, telegraphing what you're going to do before you do it shifts the political and emotional situation in your favor, and usually results in better information for everybody.
+Even if you want to act unilaterally, you can use this one weird trick to shift the political and emotional situation in your favor: telegraphing what you're going to do before you do it.
+Not only will it benefit you, it usually results in better information for everybody.
 
-More than this, communicating effectively allows you to, at once, punish the lusers, and reward good behavior.
+Communicating effectively allows you to, at once, punish the lusers, and reward good behavior.
 In other words, you are going to teach people to treat your emails not as irrelevant scribblings but as divine instructions from a just and merciful IT god.
 
 Once you send a warning email, your faithful readers, people of the IT covenant, will act accordingly, and prepare themselves for a smooth transition.
 
 Conversely, the Philistines with 42,345 unreads in their inbox will ignore it (as they ignore all outside stimuli), only to one day wake up and discover they really should have updated that key dependency when they had the chance.
 When they call the higher-ups to complain, your ass is covered. 
-They look careless, and you look like the guy who knows how to do his job.
+They look careless, and you look like someone who knows how to do their job.
 
 ## Gradually Escalating Intensity
 
@@ -66,7 +68,7 @@ We have established that communication is a good long-term strategy.
 Now, let's talk tactics.
 
 Police misconduct increasingly makes the news, so many of you may already have heard about the Minimum Use of Force principle.
-This is like the IT version of that.
+My main tactic is like the IT version of that.
 Let's say you want to shut down an old compute cluster and want users to make the transition in a timely fashion.
 Here's a framework for doing this that showcases the Gradually Escalating Intensity principle.
 
@@ -85,18 +87,26 @@ This allows the communication to be more targeted at each step.
 For example, users who ignored the email in step 2 implicitly gave you the information that they require additional prodding or help.
 By narrowing down the target audience with the first few emails, you avoided the scenario in which there are too many users to prod individually, resulting in you desperately sending **IMPORTANT!!** blast emails into the void.
 
-In the second place, this was ultimately still a unilateral decision, but gracefully-executed rather than ham-fistedly.
+In the second place, this was ultimately still a unilateral decision, but was executed gracefully rather than ham-fistedly.
 There was some wiggle room on the specific date, but we needed the old cluster shut down by August, and this was non-negotiable.
-Users of the old cluster would prefer to keep using it forever, if possible, and if allowed veto power over the decision would do so. 
+Users of the old cluster would prefer to keep using it forever, if possible, and would indefinitely veto the migration if allowed to. 
 As such, we couldn't be fully open to a consensus approach, but things still went much more smoothly for everyone because we communicated.
 All of our users were able to be ahead of the ball, and thanked us for the help.
 We gave them nothing they could reasonably complain about, even though the change was uncomfortable for them.
 
 ## PS: Meet People Where They Are (not where they ought to be)
 
-I've heard that "we rolled out that change already, that directory should have been deleted a while ago, so let's just fix the glitch".
+Have you ever heard something like this before?
+
+~~~
+
+"we rolled out that change already, and that directory should have been deleted a while ago. Let's just fix the glitch and delete it right now".
 
 *important data go poof*
+
+Turns out that the users were still actively using that directory!
+
+~~~
 
 Even if you communicated earlier, if you didn't follow that up with action, the user will get confused. It sends a mixed message.
 If you don't follow up your warnings with action, you will have to warn again before acting, if you're dealing with people whose faith you want to keep.

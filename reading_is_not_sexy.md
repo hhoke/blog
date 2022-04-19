@@ -6,7 +6,7 @@ Reading is not sexy *per se*.
 Of course, anyone capable of reading the slogan would presumably consider illiteracy to be undesirable, and reading to be a sign or signal of good qualities.
 Finding illiteracy undesirable, however, is not the same as being sexually attracted to reading.
 
-I'm sure people find "reading", as a trait, attractive, not in a sexual way but in an affiliative, friendly one.
+I'm sure people find "reading", as a trait, attractive -- not in a sexual way, but in an affiliative, friendly one.
 It has been well established that people like others who are similar to them, who share traits or identities with them.
 More than appealing to a vague affiliative feeling borne of loosely-defined similarities, this is explicitly reinforcing and signaling the bookworm identity:
 The shop selling the above graphic says, "Bookworms are HOT!".
