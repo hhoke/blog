@@ -92,7 +92,7 @@ Many fast-food places do have light items like salads and yogurt, but these are 
 Giving The People What They Want
 https://web.archive.org/web/20100315175507/https://www.nytimes.com/1991/03/19/business/fast-food-lightens-up-but-sales-are-often-thin.html
 
-#The Center Will Not Hold: the mass medium lifecycle and the victory of Format
+# The Center Will Not Hold: the mass medium lifecycle and the victory of Format
 
 ## Globalist Homogenization
 
