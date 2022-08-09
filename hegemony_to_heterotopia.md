@@ -1,3 +1,4 @@
+## NOTES
 https://www.ncta.com/cables-story
 
 HBO provides, via microwave, the first original cable television production of The
@@ -91,7 +92,6 @@ Many fast-food places do have light items like salads and yogurt, but these are 
 Giving The People What They Want
 https://web.archive.org/web/20100315175507/https://www.nytimes.com/1991/03/19/business/fast-food-lightens-up-but-sales-are-often-thin.html
 
-
 #The Center Will Not Hold: the mass medium lifecycle and the victory of Format
 
 ## Globalist Homogenization
@@ -117,10 +117,10 @@ Even more interesting was the evolution of programming schedules, brands, and ma
 For a certain period, our right-wing conspiracist is right: mass media such as syndicated radio and TV was a monoculture.
 However, this peaked for radio in the early 60s, and for TV in the late 80s. 
 
-It used to be that one radio station would play soaps in the day, news at dinner, and music in the evening, often a middle-of-the-road variety show format [Golden Age, GSO].
+It used to be that one radio station would play soaps in the day, news at dinner, and music in the evening (often, a middle-of-the-road variety show format) [Golden Age, GSO].
 Radio stations were limited, but were the only broadcasting technology available.
 By the 70s, home listening through records [LP] and the development of FM radio stations and the concept of the music format led to targeting of particular market segments, particular audiences [Origin of Format].
-A fascinating side-effect of this shift, together with the white migration into the suburbs and away from cultural centers such as dance halls, led to the modern phenomenon of white men being unable to dance for shit [I Don't Dance].
+A fascinating side-effect of this shift, together with the white migration into the suburbs and away from cultural centers such as dance halls, led to the modern phenomenon of white people, particularly men, being unable to dance for shit [I Don't Dance].
 At the same time, with the introduction of TV, the old radio format of soaps, news, primetime dramas and evening variety had become the new TV format with few alterations [80s TV wasteland].
 
 Things used to be very middle of the road with the big three networks from their establishment in the late 40s and the days of TV/Radio simulcasts through the 80s.
@@ -131,7 +131,11 @@ The explosion of channels facilitated a similar transformation as had happened i
 
 A cable saturation graph follows a roughly sigmoid growth curve, with the explosive growth phase squarely situated in the 80s, directly following a series of federal court cases. [80s Cable Explosion, HBO vs. FCC]
 
-(something about lotsa channels and mid-2000s cable dominance)
+(something about lotsa channels and mid-2000s cable dominance. Make sure to mention the World Fishing Network as a marketer's wet dream due to consumer targeting)
+
+Hot Topic/ Pop Punk, subculture astroturfing, full cultural penetration of lifestyle marketing?
+
+Nickelodeon -> MTV pipeline?
 
 ### Climax Communities and Super Heavy Users
 
@@ -142,9 +146,11 @@ same shit with twitter.
 https://www.theverge.com/2019/2/7/18213567/twitter-to-stop-sharing-mau-as-users-decline-q4-2018-earnings
 [Hate, Inc]outrage media\*\*.
 
+Make sure to mention Watch TikTok, Book TikTok, Guitar Youtube and draw parallels to World Fishing Network cable/sat channel 
+
 ~~~
 
-\* I personally find it somewhat endearing that many on the far-right have begun to use the preferred term of their leftist counterparts, "neoliberalism". The word is so overused by leftists that I will use Ctrl+F to scan sociology/anthropology papers for a "neoliberalism" count before reading them, as a rough negative indicator of quality. We are not only living through neoliberal hegemony, but a growing hegemony of "neoliberalism" in letters.
+\* I personally find it somewhat endearing that many on the far-right have begun to use the preferred term of their leftist counterparts, "neoliberalism". The word is so overused by leftists that I will use Ctrl+F to scan sociology/anthropology papers for a "neoliberalism" count before reading them, as a rough negative indicator of quality. We are not only living through neoliberal hegemony, but a growing adjectival hegemony of "neoliberalism" in letters.
 
 \*\* a personally-saddening consequence of the Trump era is seeing many open-minded, highly-educated people in my social circle slowly devolving into conspiracy-minded, media-junkie troglodytes that lack even the old-timey charm of senile Fox News addicts 
 
