@@ -14,6 +14,7 @@ The experience, now, is of the line.
 - [ ] Cram into box.
 - [ ] Use art as IG filter.
 
+Sad!
 
 One wonders what Mrs. Kusama makes of all this.
 She is hardly to blame.
@@ -65,7 +66,7 @@ Matrix multiplication, binary transmission, leave it to computers!
 Man and woman make much poorer copiers than Xerox.
 For them, it would have been better had they been made ants than memecancer.
 Contra the bio-copiers, poor shambling passionless puppets with NO DICK, NO WOMB,(terrified even), life is generative.
-Life invades the external and blossoms into it, and some of the blossoms wither into fruit.
+Life invades the external and blossoms into it.
 
 What is the score that matters?
 A score to sing richly aloud, a partner to thrill, a painting to confront and explore! 
