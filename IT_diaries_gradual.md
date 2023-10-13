@@ -85,7 +85,7 @@ In the first place, each of these communications is obviously a way for you to g
 Less obviously, each of these steps was an opportunity for users to give information to you, even if the information is implicit.
 This allows the communication to be more targeted at each step.
 For example, users who ignored the email in step 2 implicitly gave you the information that they require additional prodding or help.
-By narrowing down the target audience with the first few emails, you avoided the scenario in which there are too many users to prod individually, resulting in you desperately sending **IMPORTANT!!** blast emails into the void.
+By narrowing down the target audience with the first few emails, you avoided the following scenario: Cutover is tomorrow. There are too many users to prod individually. Your only hope is to desperately send **IMPORTANT!!** blast emails into the void, and brace for the inevitable deluge of broken stuff.
 
 In the second place, this was ultimately still a unilateral decision, but was executed gracefully rather than ham-fistedly.
 There was some wiggle room on the specific date, but we needed the old cluster shut down by August, and this was non-negotiable.
@@ -111,3 +111,5 @@ Turns out that the users were still actively using that directory!
 Even if you communicated earlier, if you didn't follow that up with action, the user will get confused. It sends a mixed message.
 If you don't follow up your warnings with action, you will have to warn again before acting, if you're dealing with people whose faith you want to keep.
 Your ass may already be covered, unlike in the previous examples, but if you care about maintaining user good will and the functionality of critical business systems, it's the right thing to do.
+
+Users will always [create dependencies on every aspect of your system, given enough time](https://www.hyrumslaw.com/#), so this sort of thing is inevitable, but confusing and inconsistent behavior makes it much, much worse!
