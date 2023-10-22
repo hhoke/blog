@@ -9,16 +9,21 @@ Finding illiteracy undesirable, however, is not the same as being sexually attra
 I'm sure people find "reading", as a trait, attractive -- not in a sexual way, but in an affiliative, friendly one.
 It has been well established that people like others who are similar to them, who share traits or identities with them.
 More than appealing to a vague affiliative feeling borne of loosely-defined similarities, this is explicitly reinforcing and signaling the bookworm identity:
-The shop selling the above graphic says, "Bookworms are HOT!".
+The above graphic's implied message is, "In This House, Bookworms are HOT!".
 Obviously, bookworms are not, as a group, hot, but there is something here beyond mere ingroup-signaling and wishful writing, something genuinely sexual (or perhaps romantic).
 
 First, a difficulty to overcome, to do with the overly reductionist way in which many people describe their own sexuality.
+It's reductionist even without considering motion, dress, and other things that people have and statuary nudes lack.
 While someone might say they like "wide hips" or "big shoulders", what really matters for most is the visual contrast with the rest of the body, that is, the WHR or SHR.
 In this case, "wide hips" are a sort of metonym for that aspect of the physique formed by the waist, hips, and legs.
-The waist and legs are left out of the explicit description, but to really understand what it's all about, we have to fill them in.
-Some may understand this metonymy explicitly or implicitly, but many simply do not know what they are talking about.
-This is not a problem we can really get to the bottom of, but one that must be resolved by reconstructing, in words, those crucial components that had been left out of the explicit verbal description.
-Hips and shoulders have already been covered. What about glasses?
+Some understand this metonymy, but many get stuck in a sort of language-mediated fetish, where the focal point becomes alienated from the periphery.
+They simply do not know what it is that they are talking about.
+The waist and legs are left out of the explicit description and fetishistic imagination, we have to fill them in.
+This is not a problem we can really get to the bottom of.
+We must relax the pinprick pupil into a wide-open and harmonious context.
+Hips and shoulders have already been covered. It's the gestalt, stupid!
+
+So, what about glasses?
 
 Glasses often serve as a metonym, sign, or signal of bookwormery.
 I have heard often that, as "reading is sexy", so, too, "glasses are sexy".
