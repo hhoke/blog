@@ -54,7 +54,7 @@ Neither pencils nor glasses are sexy, lips are.
 Pencils are not "IT", but if you have it, you can use a pencil to draw attention to it.
 
 Many of the fantasy scenarios previously discussed have some element of motion or implied action, but this isn't necessary.
-Take almost a typical [Tom of Finland drawing](https://www.advocate.com/media-library/tom-of-finland.jpg?id=32678872&width=2400&height=1801).
+Take your typical [Tom of Finland drawing](https://www.advocate.com/media-library/tom-of-finland.jpg?id=32678872&width=2400&height=1801).
 There is arguably implied motion in the belt strap pulled tight against the lower back.
 In that same drawing, however, a belt buckle gives no implication of motion, but catches the eye and draws it to the parts of the drawing that make you squirm.
 There is a whole universe of ways that visual artists can manipulate our attention and our perceptions, and stylists as much as painters.
