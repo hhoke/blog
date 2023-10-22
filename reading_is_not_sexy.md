@@ -45,38 +45,40 @@ We can easily imagine another common fantasy scenario:
 A beautiful woman's head is bowed, looking down at a pair of glasses.
 Manicured hands deftly place them over her downcast eyes, which snap up to catch yours.
 Through a long moment, her gentle fingertips pause on smooth cheeks, before slowly tracing a path back down.
-Now, imagine the same, over cheeks pocked with a yellow-greening, angry infection.
+Now, Imagine that same motion, over cloudy, yellowed cock-eyes.
+Imagine that same elegant caress, over cheeks pocked with angry clots of open carbuncles.
 Glasses aren't sexy, cheeks are.
 
 We can repeat the same exercise with the "temple tip on lip" pose (which can also be done with a pencil).
 Neither pencils nor glasses are sexy, lips are.
 Pencils are not "IT", but if you have it, you can use a pencil to draw attention to it.
 
-Many of the fantasy scenarios previously discussed have some element of motion or implied action.
-Take almost any Tom of Finland drawing.
-There is an implied motion in the belt strap pulled tight against the lower back.
-In that same drawing, a belt buckle gives no implication of motion, but catches the eye and draws it to the parts of the drawing that make you squirm.
+Many of the fantasy scenarios previously discussed have some element of motion or implied action, but this isn't necessary.
+Take almost a typical [Tom of Finland drawing](https://www.advocate.com/media-library/tom-of-finland.jpg?id=32678872&width=2400&height=1801).
+There is arguably implied motion in the belt strap pulled tight against the lower back.
+In that same drawing, however, a belt buckle gives no implication of motion, but catches the eye and draws it to the parts of the drawing that make you squirm.
 There is a whole universe of ways that visual artists can manipulate our attention and our perceptions, and stylists as much as painters.
 
 Speaking generally now, an ornament increases the salience of the traits it highlights, distorting the perception of the scene.
 If the thing an ornament draws attention to is beautiful, the experience of the scene is made more beautiful.
 
-Having covered sensual visions with perceptual dynamics, we move on to discuss robust dreams, real romantic dramas.
+Having covered the perceptual dynamics in scenes of sensual visions, we move on to discuss robust dreams, real romantic dramas.
 Glasses can be an ornament, same as a piece of glittering jewelry, but can also serve as props.
 That is, a pair of glasses can serve as something that helps complete and situate a character, something that naturally comes along with it.
 
 A bookworm fantasy:
 
-Imagine the man of your desires.
+Imagine the man of your desires. An unusually handsome professor of English Literature, perhaps.
 You've been reading Shakespeare together, and are deep in discussion, in front of a fire he has made for you.
+He's explaining a particularly complex passage, when you ask him a probing question.
 Wrapped in his quiet, warm strength, he gazes at you, a curious joy on his face.
-Almost in awe, he softly remarks, "I never thought about King Lear that way before".
+With a glint in his eye, he softly remarks, "I never thought about King Lear that way before".
 You feel seen, known, cherished.
 
-Nobody fantasizes about an ugly, unkempt man turning to them, eyes dull with disease, and stammering out "I n-never thought about Richard th- Richard the Third that way, um, ah before, you're p-pretty smart for, I mean, for a girl."
+Nobody fantasizes about an ugly, unkempt man turning to them, eyes dully pointing off into space, and stammering out "I n-never thought about Richard th- Richard the Third that way, um, ah before, you're p-pretty smart for, I mean, for a girl."
 
 The book is a prop.
-I'm sure if reading is important to you, many of your fantasies will incorporate books or reading.
+I'm sure if reading is important to you, some of your fantasies will incorporate books or reading.
 You may have even been seduced in a bookshop.
 However, Mr. Right is not handsome because he reads any more than Nicki Minaj is beautiful because of her wigs.
 
@@ -84,7 +86,7 @@ Reading is of romantic consequence, of course.
 It opens up worlds of possibilities, settings and opportunities to love and be loved, as would any shared interest.
 Perhaps it makes sense to say that dance, or reading, or fishing is romantic.
 But let's not fetishize away the ecstasy of sensual enjoyment into a medical device of wire and glass.
-Let us not mistake brand compatibility for a romance of character, nor the setting for the scene.
+Let us not mistake brand compatibility for a romance of character, mistake the setting for the scene.
 
 Girls with glasses are not, with apologies to listicle writer #1, so sexy.
 To books, and to glasses and nose rings will be ascribed what a beautiful person can make of them.
