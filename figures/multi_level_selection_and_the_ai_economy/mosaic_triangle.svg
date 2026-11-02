@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1080" width="900" height="1080">
+<rect width="900" height="1080" fill="#f8f8f7"/>
+<text x="450.0" y="60" font-family="Georgia, 'Times New Roman', serif" font-size="24" fill="#2b2b2b" text-anchor="middle">(a) Jagged human capabilities across domains</text>
+<text x="165.0" y="112" font-family="Georgia, 'Times New Roman', serif" font-size="18" fill="#2b2b2b" text-anchor="middle">Person 1</text>
+<text x="165.0" y="136" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" fill="#9a9a9a" text-anchor="middle">Verbal+ / Math−</text>
+<circle cx="165.0" cy="285" r="85" fill="none" stroke="#dcdcdc" stroke-width="1.2"/>
+<circle cx="165.0" cy="285" r="89" fill="none" stroke="#dcdcdc" stroke-width="0.6"/>
+<circle cx="165.0" cy="285" r="28.1" fill="none" stroke="#dcdcdc" stroke-width="0.8" stroke-dasharray="2 3"/>
+<circle cx="165.0" cy="285" r="56.1" fill="none" stroke="#dcdcdc" stroke-width="0.8" stroke-dasharray="2 3"/>
+<line x1="165.0" y1="285" x2="165.0" y2="200.0" stroke="#dcdcdc" stroke-width="0.8"/>
+<text x="165.0" y="180.0" font-family="Georgia, 'Times New Roman', serif" font-size="14" fill="#2b2b2b" text-anchor="middle">Verbal</text>
+<line x1="165.0" y1="285" x2="238.6" y2="327.5" stroke="#dcdcdc" stroke-width="0.8"/>
+<text x="252.5" y="348.1" font-family="Georgia, 'Times New Roman', serif" font-size="14" fill="#2b2b2b" text-anchor="middle">Math</text>
+<line x1="165.0" y1="285" x2="91.4" y2="327.5" stroke="#dcdcdc" stroke-width="0.8"/>
+<text x="77.5" y="348.1" font-family="Georgia, 'Times New Roman', serif" font-size="14" fill="#2b2b2b" text-anchor="middle">Culture</text>
+<polygon points="165.0,204.2 183.4,295.6 120.8,310.5" fill="#e8b4b4" fill-opacity="0.55" stroke="#d98a8a" stroke-width="2" stroke-linejoin="round"/>
+<circle cx="165.0" cy="204.2" r="3.5" fill="#d98a8a"/>
+<circle cx="183.4" cy="295.6" r="3.5" fill="#d98a8a"/>
+<circle cx="120.8" cy="310.5" r="3.5" fill="#d98a8a"/>
+<text x="450.0" y="112" font-family="Georgia, 'Times New Roman', serif" font-size="18" fill="#2b2b2b" text-anchor="middle">Person 2</text>
+<text x="450.0" y="136" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" fill="#9a9a9a" text-anchor="middle">Math+ / Culture−</text>
+<circle cx="450.0" cy="285" r="85" fill="none" stroke="#dcdcdc" stroke-width="1.2"/>
+<circle cx="450.0" cy="285" r="89" fill="none" stroke="#dcdcdc" stroke-width="0.6"/>
+<circle cx="450.0" cy="285" r="28.1" fill="none" stroke="#dcdcdc" stroke-width="0.8" stroke-dasharray="2 3"/>
+<circle cx="450.0" cy="285" r="56.1" fill="none" stroke="#dcdcdc" stroke-width="0.8" stroke-dasharray="2 3"/>
+<line x1="450.0" y1="285" x2="450.0" y2="200.0" stroke="#dcdcdc" stroke-width="0.8"/>
+<text x="450.0" y="180.0" font-family="Georgia, 'Times New Roman', serif" font-size="14" fill="#2b2b2b" text-anchor="middle">Verbal</text>
+<line x1="450.0" y1="285" x2="523.6" y2="327.5" stroke="#dcdcdc" stroke-width="0.8"/>
+<text x="537.5" y="348.1" font-family="Georgia, 'Times New Roman', serif" font-size="14" fill="#2b2b2b" text-anchor="middle">Math</text>
+<line x1="450.0" y1="285" x2="376.4" y2="327.5" stroke="#dcdcdc" stroke-width="0.8"/>
+<text x="362.5" y="348.1" font-family="Georgia, 'Times New Roman', serif" font-size="14" fill="#2b2b2b" text-anchor="middle">Culture</text>
+<polygon points="450.0,246.8 519.9,325.4 435.3,293.5" fill="#e8b4b4" fill-opacity="0.55" stroke="#d98a8a" stroke-width="2" stroke-linejoin="round"/>
+<circle cx="450.0" cy="246.8" r="3.5" fill="#d98a8a"/>
+<circle cx="519.9" cy="325.4" r="3.5" fill="#d98a8a"/>
+<circle cx="435.3" cy="293.5" r="3.5" fill="#d98a8a"/>
+<text x="735.0" y="112" font-family="Georgia, 'Times New Roman', serif" font-size="18" fill="#2b2b2b" text-anchor="middle">Person 3</text>
+<text x="735.0" y="136" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" fill="#9a9a9a" text-anchor="middle">Culture+ / Verbal−</text>
+<circle cx="735.0" cy="285" r="85" fill="none" stroke="#dcdcdc" stroke-width="1.2"/>
+<circle cx="735.0" cy="285" r="89" fill="none" stroke="#dcdcdc" stroke-width="0.6"/>
+<circle cx="735.0" cy="285" r="28.1" fill="none" stroke="#dcdcdc" stroke-width="0.8" stroke-dasharray="2 3"/>
+<circle cx="735.0" cy="285" r="56.1" fill="none" stroke="#dcdcdc" stroke-width="0.8" stroke-dasharray="2 3"/>
+<line x1="735.0" y1="285" x2="735.0" y2="200.0" stroke="#dcdcdc" stroke-width="0.8"/>
+<text x="735.0" y="180.0" font-family="Georgia, 'Times New Roman', serif" font-size="14" fill="#2b2b2b" text-anchor="middle">Verbal</text>
+<line x1="735.0" y1="285" x2="808.6" y2="327.5" stroke="#dcdcdc" stroke-width="0.8"/>
+<text x="822.5" y="348.1" font-family="Georgia, 'Times New Roman', serif" font-size="14" fill="#2b2b2b" text-anchor="middle">Math</text>
+<line x1="735.0" y1="285" x2="661.4" y2="327.5" stroke="#dcdcdc" stroke-width="0.8"/>
+<text x="647.5" y="348.1" font-family="Georgia, 'Times New Roman', serif" font-size="14" fill="#2b2b2b" text-anchor="middle">Culture</text>
+<polygon points="735.0,268.0 771.8,306.2 665.1,325.4" fill="#e8b4b4" fill-opacity="0.55" stroke="#d98a8a" stroke-width="2" stroke-linejoin="round"/>
+<circle cx="735.0" cy="268.0" r="3.5" fill="#d98a8a"/>
+<circle cx="771.8" cy="306.2" r="3.5" fill="#d98a8a"/>
+<circle cx="665.1" cy="325.4" r="3.5" fill="#d98a8a"/>
+<text x="450.0" y="445" font-family="Georgia, 'Times New Roman', serif" font-size="24" fill="#2b2b2b" text-anchor="middle">(b) Mosaic intelligence: organizational envelope</text>
+<circle cx="450.0" cy="735" r="205" fill="none" stroke="#dcdcdc" stroke-width="1.2"/>
+<circle cx="450.0" cy="735" r="209" fill="none" stroke="#dcdcdc" stroke-width="0.6"/>
+<circle cx="450.0" cy="735" r="67.7" fill="none" stroke="#dcdcdc" stroke-width="0.8" stroke-dasharray="2 3"/>
+<circle cx="450.0" cy="735" r="135.3" fill="none" stroke="#dcdcdc" stroke-width="0.8" stroke-dasharray="2 3"/>
+<line x1="450.0" y1="735" x2="450.0" y2="530.0" stroke="#dcdcdc" stroke-width="0.8"/>
+<text x="450.0" y="502.0" font-family="Georgia, 'Times New Roman', serif" font-size="19" fill="#2b2b2b" text-anchor="middle">Verbal</text>
+<line x1="450.0" y1="735" x2="627.5" y2="837.5" stroke="#dcdcdc" stroke-width="0.8"/>
+<text x="648.3" y="866.6" font-family="Georgia, 'Times New Roman', serif" font-size="19" fill="#2b2b2b" text-anchor="middle">Math</text>
+<line x1="450.0" y1="735" x2="272.5" y2="837.5" stroke="#dcdcdc" stroke-width="0.8"/>
+<text x="251.7" y="866.6" font-family="Georgia, 'Times New Roman', serif" font-size="19" fill="#2b2b2b" text-anchor="middle">Culture</text>
+<polygon points="450.0,540.2 618.7,832.4 281.3,832.4" fill="#e8b4b4" fill-opacity="0.18" stroke="none"/>
+<path d="M450.0,625.7 C480.6,625.4 566.1,767.7 550.6,793.1 C535.1,818.5 361.5,819.9 346.4,794.8 C331.3,769.7 419.4,625.9 450.0,625.7Z" fill="#d4d3ee" fill-opacity="0.7" stroke="none"/>
+<polygon points="450.0,540.2 494.4,760.6 343.5,796.5" fill="none" stroke="#9a9a9a" stroke-opacity="0.6" stroke-width="1.1" stroke-linejoin="round"/>
+<polygon points="450.0,642.8 618.7,832.4 414.5,755.5" fill="none" stroke="#9a9a9a" stroke-opacity="0.6" stroke-width="1.1" stroke-linejoin="round"/>
+<polygon points="450.0,694.0 538.8,786.2 281.3,832.4" fill="none" stroke="#9a9a9a" stroke-opacity="0.6" stroke-width="1.1" stroke-linejoin="round"/>
+<path d="M450.0,625.7 C480.6,625.4 566.1,767.7 550.6,793.1 C535.1,818.5 361.5,819.9 346.4,794.8 C331.3,769.7 419.4,625.9 450.0,625.7Z" fill="none" stroke="#b3b2df" stroke-width="2.4" stroke-dasharray="7 5"/>
+<circle cx="450.0" cy="625.7" r="4.5" fill="#a8a7d4"/>
+<circle cx="550.6" cy="793.1" r="4.5" fill="#a8a7d4"/>
+<circle cx="346.4" cy="794.8" r="4.5" fill="#a8a7d4"/>
+<polygon points="450.0,540.2 618.7,832.4 281.3,832.4" fill="none" stroke="#d98a8a" stroke-width="3" stroke-linejoin="round"/>
+<circle cx="450.0" cy="540.2" r="6" fill="#d98a8a"/>
+<circle cx="618.7" cy="832.4" r="6" fill="#d98a8a"/>
+<circle cx="281.3" cy="832.4" r="6" fill="#d98a8a"/>
+<line x1="515" y1="990" x2="551" y2="990" stroke="#9a9a9a" stroke-width="1.5"/>
+<text x="567" y="995" font-family="Georgia, 'Times New Roman', serif" font-size="15" fill="#2b2b2b">Individual workers (i = 1, …, 3)</text>
+<line x1="515" y1="1016" x2="551" y2="1016" stroke="#b3b2df" stroke-width="3" stroke-dasharray="6 4"/>
+<text x="567" y="1021" font-family="Georgia, 'Times New Roman', serif" font-size="15" fill="#2b2b2b">Average intelligence (random pairing)</text>
+<line x1="515" y1="1042" x2="551" y2="1042" stroke="#d98a8a" stroke-width="3"/>
+<text x="567" y="1047" font-family="Georgia, 'Times New Roman', serif" font-size="15" fill="#2b2b2b">Mosaic intelligence (comparative advantage)</text>
+</svg>
