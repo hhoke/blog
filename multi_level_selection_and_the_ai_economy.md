@@ -22,6 +22,17 @@ This is remarkably similar to the whole multi-level selection debate in Evolutio
 
 Returning to economics, naturally the unit of interest is the firm. But how can it be that "a model can exceed the performance of every person one-on-one and still lose to a well-structured team" if the overperformance of teams is due to ricardian comparative advantage? 
 
-![Two people with complementary Verbal and Math skills form a mosaic envelope that beats their average. GrokBot, at 3x the best human on both axes, dwarfs both.](figures/multi_level_selection_and_the_ai_economy/mosaic_2d.svg)
+![A chemist and a physicist each score well only in their own field on GPQA graduate-level science questions, so as a team they cover more than either alone. GPT-4 (2023) scored like a non-expert; Claude Sonnet 4.6 (2026) beats both experts in their own fields.](figures/multi_level_selection_and_the_ai_economy/mosaic_gpqa.svg)
 
-*Figure: a two-skill simplification of DeepMind's mosaic intelligence figure, with GrokBot added. [Figures and code](figures/multi_level_selection_and_the_ai_economy/).*
+*Figure: a real-data, two-skill version of DeepMind's mosaic intelligence figure, using measured expert and model accuracy on GPQA. [Figures, code and sources](figures/multi_level_selection_and_the_ai_economy/).*
+
+Mosaic intelligence alone can outperform GPT-4 from 2023, but Claude Sonnet 4.6 dominates across the board. If a single LLM can dominate a firm of people, who cares about coordination costs? 
+
+They make a good point that humans tend to be jagged in complementary ways, but AI is jagged in identical ways. So, "We can add a complementary human specialist to a team to fill a gap, but spinning up another copy of a model only adds capacity without increasing breadth of capabilities." But I return to the above figure. In three years, a SOTA model has gone from inside the human average, blown through the paradigm where it is better than average but the firm still dominates, to reach a paradigm where a single model dominates even a firm of humans. Presumably if they needed scale, they could just run two agents. Identical jaggedness doesn't matter as it beats every human on every task skill. So this "Minimal AGI" is an interesting case, and does much to help us understand the current situation. But I think in the long term, We will end up with ASI. It seems overwhelmingly likey that coordination between agents will get much better than it is now, and capabilities increases are a runaway freight train.
+
+| Silicon > Meat at... | **Thinking: Sometimes** | **Thinking: Always** |
+|:--------------------|:------------------------|:---------------------|
+| **Coordinating: No** | Minimal AGI | Supercompetent AI |
+| **Coordinating: Yes** | Supercooperative AGI | **ASI** |
+  
+So this is a very cool call to action on coordination. It's also a good default model for the economic changes ahead for us in the next 5 years or so. It will be interesing to see which regime we land in for different industries -- assuming the singularity doesn't come for us all.
