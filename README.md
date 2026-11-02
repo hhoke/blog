@@ -10,3 +10,4 @@
 - [Neither Reading Nor Glasses are Sexy, But That Won't Stop You From Fantasizing](https://hhoke.github.io/blog/reading_is_not_sexy.html)
 - [Fabric2 Migration Guide](https://hhoke.github.io/blog/fabric_deploy_migration.html)
 - [InfiMcD](https://hhoke.github.io/blog/infinite_mcd.html)
+- [Multi-Level Selection and the AI Economy](https://hhoke.github.io/blog/multi_level_selection_and_the_ai_economy.html)
