@@ -1,6 +1,6 @@
 # Multi-Level Selection and the AI Economy
 
-Reading https://institute.deepmind.com/essays/the-economics-of-intelligence/, which is both elegant and informative.
+Reading [The Economics of Intelligence: How and when does AGI lead to economic transformation?](https://institute.deepmind.com/essays/the-economics-of-intelligence/), which is both elegant and informative.
 
 The figures are really worth looking at, and if you look at all of them, you have the gist of the paper. I can't think of a better use of the next five minutes of your time.
 
